@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "e7d712507f0010ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "6695d02f79700f86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "413814925b8927be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Indice Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d121f25cefb87423",
+    "type": "split",
+    "children": [
+      {
+        "id": "67aba774db1fc82c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cad84e605af4693",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "712187d9f182cb9e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a44d9c54686cb077",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "89765bc952e8460c",
+    "type": "split",
+    "children": [
+      {
+        "id": "df61d443b5afc243",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9db50e9ccb290e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git/Indice Git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a6f5c0fc0f096f49",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Git/Indice Git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5259f57a91ae63f4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5fff2613a82aae1d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Git/Indice Git.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "413814925b8927be",
+  "lastOpenFiles": [
+    "SpringFramework-SpringBoot/Indice Spring.md",
+    "React/Indice React.md",
+    "SpringFramework-SpringBoot/Despedida",
+    "SpringFramework-SpringBoot/CRUD Peliculas",
+    "SpringFramework-SpringBoot/Inyeccion de Dependencias",
+    "SpringFramework-SpringBoot/Spring MVC",
+    "SpringFramework-SpringBoot/Introduccion",
+    "Git/Indice Git.md",
+    "React/Vite",
+    "React/Esenciales I",
+    "React/Introduccion",
+    "Git/Configuracion",
+    "Python/Indice Python.md",
+    "Git/Conceptos Iniciales",
+    "Sin título.canvas",
+    "Semana 4/Introduccion a Bootstrap.md",
+    "Semana 4/Estres.md",
+    "Semana 4/Entrevistas.md",
+    "Semana 4/CV + Taller.md",
+    "Semana 4/05 de Abril de 2024.md",
+    "Semana 4/04 de Abril de 2024.md",
+    "Semana 4/03 de Abril de 2024.md",
+    "Semana 4/01 de Abril de 2024.md",
+    "Notion/Full Stack Java/Semana 3/Introducción a HTML/Introducción a HTML.md",
+    "Notion/5to Semestre/Instrumentación y Control/Class 17 de Abril de 2023/Clase 22 de mayo/extras/image-1684764999152.jpg1915767891570815066.jpg",
+    "Notion/5to Semestre/Instrumentación y Control/Class 17 de Abril de 2023/Clase 22 de mayo/extras/image-1684763725519.jpg6931420164128200237.jpg",
+    "Notion/5to Semestre/Instrumentación y Control/Class 17 de Abril de 2023/Clase 22 de mayo/extras/image-1684762304966.jpg8555078589588348633.jpg",
+    "Notion/5to Semestre/Instrumentación y Control/Class 17 de Abril de 2023/18 de mayo de 2023/extras/image-1684417818752.jpg7448840295315081163.jpg",
+    "Notion/5to Semestre/Instrumentación y Control/Class 17 de Abril de 2023/18 de mayo de 2023/extras/image-1684417159900.jpg4311601369420277015.jpg",
+    "Notion/5to Semestre/Instrumentación y Control/Class 17 de Abril de 2023/18 de mayo de 2023/extras/image-1684415880541.jpg8507358033310026120.jpg",
+    "Notion/5to Semestre/Instrumentación y Control/Class 17 de Abril de 2023/18 de mayo de 2023/extras/image-1684415868636.jpg5994205337081266191.jpg",
+    "Notion/5to Semestre/Instrumentación y Control/Class 17 de Abril de 2023/18 de mayo de 2023/extras/image-1684415847512.jpg2610878978298986465.jpg",
+    "Notion/!!!-Cursos Por Hacer-!!!/Git y GitHub/GIT+GitHub- Todo un sistema de control de versiones de cero/Ramas, Uniones, Conflictos y Tags/extras/Untitled.png",
+    "Notion/!!!-Cursos Por Hacer-!!!/Git y GitHub/GIT+GitHub- Todo un sistema de control de versiones de cero/Ramas, Uniones, Conflictos y Tags/extras/Untitled 5.png",
+    "Notion/Full Stack Java/Semana 1/05 de Marzo del 2024/Base de datos sin título/Fuente- Web development PHP Java - free vector graphic on Pixabay. (n.d.). Retrieved June 21, 2022. https---pixabay.com-vectors-web-development-php-java-code-4202909-.md",
+    "Notion/Full Stack Java/Semana 1/05 de Marzo del 2024/Base de datos sin título/Fuente- Programming developing startup - free photo on Pixabay. (n.d.). Retrieved June 21, 2022. https---pixabay.com-photos-programming-developing-startup-593312-.md",
+    "Notion/Full Stack Java/Semana 1/05 de Marzo del 2024/Base de datos sin título/Fuente- Meeting coworkers group - free photo on Pixabay. (n.d.). Retrieved June 21, 2022. https---pixabay.com-photos-meeting-coworkers-group-office-4156018-.md",
+    "Notion/Full Stack Java/Semana 1/05 de Marzo del 2024/Base de datos sin título/Fuente- Financial Planning Report - free photo on Pixabay. (n.d.). Retrieved June 21, 2022. https---pixabay.com-photos-financial-planning-report-chart-3207895-.md",
+    "Notion/5to Semestre/Instrumentación y Control/Class 17 de Abril de 2023/Clase 22 de mayo/Clase 22 de mayo.md",
+    "Notion/5to Semestre/Instrumentación y Control/Class 17 de Abril de 2023/18 de mayo de 2023/18 de mayo de 2023.md",
+    "Notion/!!!-Cursos Por Hacer-!!!/Git y GitHub/GIT+GitHub- Todo un sistema de control de versiones de cero/Ramas, Uniones, Conflictos y Tags/Ramas, Uniones, Conflictos y Tags.md",
+    "Notion/!!!-Cursos Por Hacer-!!!/Git y GitHub/GIT+GitHub- Todo un sistema de control de versiones de cero/Introducción a los Fundamentos/Introducción a los Fundamentos.md",
+    "Notion/!!!-Cursos Por Hacer-!!!/Git y GitHub/GIT+GitHub- Todo un sistema de control de versiones de cero/GitHub, Git Remote, Push & Pull/GitHub, Git Remote, Push & Pull.md",
+    "Notion/!!!-Cursos Por Hacer-!!!/Git y GitHub/GIT+GitHub- Todo un sistema de control de versiones de cero/GitHub - Básico/GitHub - Básico.md",
+    "Notion/!!!-Cursos Por Hacer-!!!/Git y GitHub/GIT+GitHub- Todo un sistema de control de versiones de cero/Git Stash y Git Rebase - Para realizar cambios/Git Stash y Git Rebase - Para realizar cambios.md",
+    "Notion/!!!-Cursos Por Hacer-!!!/Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL/HTML5/Introduccion a HTML5/Introduccion a HTML5.md",
+    "Notion/!!!-Cursos Por Hacer-!!!/Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL/HTML5/Elementos Basicos/Elementos Basicos.md"
+  ]
+}
