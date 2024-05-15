@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/5. Esenciales II/8. Sesion 2. Aprendido en Clase.md",
+                "file": "React/5. Esenciales II/15. Creando hook reusable.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/5. Esenciales II/8. Sesion 2. Aprendido en Clase.md",
+                "file": "React/5. Esenciales II/15. Creando hook reusable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/5. Esenciales II/8. Sesion 2. Aprendido en Clase.md",
+                "file": "React/5. Esenciales II/15. Creando hook reusable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/5. Esenciales II/8. Sesion 2. Aprendido en Clase.md"
+                "file": "React/5. Esenciales II/15. Creando hook reusable.md"
               }
             }
           }
@@ -150,18 +150,24 @@
   },
   "active": "413814925b8927be",
   "lastOpenFiles": [
-    "React/5. Esenciales II/extras/Pasted image 20240514214034.png",
-    "React/5. Esenciales II/extras/Pasted image 20240514214015.png",
-    "React/5. Esenciales II/extras/Pasted image 20240514214004.png",
-    "React/5. Esenciales II/extras/Pasted image 20240514213926.png",
-    "React/5. Esenciales II/extras/Pasted image 20240514213902.png",
-    "React/5. Esenciales II/extras/Pasted image 20240514213842.png",
+    "React/5. Esenciales II/14. Como funciona useEffect.md",
+    "React/5. Esenciales II/extras/Pasted image 20240514224333.png",
+    "React/5. Esenciales II/extras/Pasted image 20240514224317.png",
+    "React/5. Esenciales II/extras/Pasted image 20240514224222.png",
+    "React/5. Esenciales II/extras/Pasted image 20240514224117.png",
+    "React/5. Esenciales II/extras/Pasted image 20240514224048.png",
+    "React/5. Esenciales II/extras/Pasted image 20240514224003.png",
+    "React/5. Esenciales II/extras/Pasted image 20240514223946.png",
+    "React/5. Esenciales II/extras/Pasted image 20240514223917.png",
+    "React/5. Esenciales II/extras/Pasted image 20240514223858.png",
+    "React/5. Esenciales II/extras/Pasted image 20240514223622.png",
+    "React/5. Esenciales II/13. Reglas de los Hooks.md",
+    "React/5. Esenciales II/12. Introduccion a Hooks.md",
+    "React/5. Esenciales II/11. Migrando React Hook Form.md",
+    "React/5. Esenciales II/10. Dependencias para el manejo de Formularios.md",
+    "React/5. Esenciales II/9. Agregando Formularios.md",
+    "React/5. Esenciales II/8. Sesion 2. Aprendido en Clase.md",
     "React/5. Esenciales II/7. Evento bubbling.md",
-    "React/5. Esenciales II/extras/Pasted image 20240514213734.png",
-    "React/5. Esenciales II/extras/Pasted image 20240514213723.png",
-    "React/5. Esenciales II/extras/Pasted image 20240514213656.png",
-    "React/5. Esenciales II/extras/Pasted image 20240514213554.png",
-    "React/5. Esenciales II/extras/Pasted image 20240514213537.png",
     "React/5. Esenciales II/6. Pasando Eventos como Props.md",
     "React/5. Esenciales II/5. Manejando Eventos.md",
     "React/5. Esenciales II/4. Sesion 1. Aprendido en Clases.md",
@@ -174,12 +180,6 @@
     "React/5. Esenciales II/17. Ejemplo Usando useRef.md",
     "React/5. Esenciales II/16. Que son las ref.md",
     "React/5. Esenciales II/15. Creando hook reusable.md",
-    "React/5. Esenciales II/14. Como funciona useEffect.md",
-    "React/5. Esenciales II/13. Reglas de los Hooks.md",
-    "React/5. Esenciales II/11. Migrando React Hook Form.md",
-    "React/5. Esenciales II/10. Dependencias para el manejo de Formularios.md",
-    "React/5. Esenciales II/9. Agregando Formularios.md",
-    "React/5. Esenciales II/8. Sesion 2. Aprendido en Clase.md",
     "React/5. Esenciales II/Sin título",
     "React/4. Presentacion Proyecto/2. Estructura de Carpetas.md",
     "React/5. Esenciales II",
@@ -190,7 +190,6 @@
     "React/Sin título.md",
     "React/3.Vite/3. Creando Proyecto con Vite.md",
     "React/3.Vite/2. Como funciona Vite.md",
-    "React/3.Vite/1. Que es Bundler.md",
     "React/3.Vite/extras",
     "React/2.Esenciales I/extras/04-Inmutabilidad.pdf",
     "React/2.Esenciales I/extras/04-Inmutabilidad.pdf.opdownload",
