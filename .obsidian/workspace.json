@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/3.Vite/2. Como funciona Vite.md",
+                "file": "React/5. Esenciales II/8. Sesion 2. Aprendido en Clase.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/3.Vite/2. Como funciona Vite.md",
+                "file": "React/5. Esenciales II/8. Sesion 2. Aprendido en Clase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/3.Vite/2. Como funciona Vite.md",
+                "file": "React/5. Esenciales II/8. Sesion 2. Aprendido en Clase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/3.Vite/2. Como funciona Vite.md"
+                "file": "React/5. Esenciales II/8. Sesion 2. Aprendido en Clase.md"
               }
             }
           }
@@ -150,53 +150,53 @@
   },
   "active": "413814925b8927be",
   "lastOpenFiles": [
-    "React/3.Vite/extras/Pasted image 20240514191416.png",
-    "React/3.Vite/extras/Pasted image 20240514191358.png",
-    "React/3.Vite/1. Que es Bundler.md",
+    "React/5. Esenciales II/extras/Pasted image 20240514214034.png",
+    "React/5. Esenciales II/extras/Pasted image 20240514214015.png",
+    "React/5. Esenciales II/extras/Pasted image 20240514214004.png",
+    "React/5. Esenciales II/extras/Pasted image 20240514213926.png",
+    "React/5. Esenciales II/extras/Pasted image 20240514213902.png",
+    "React/5. Esenciales II/extras/Pasted image 20240514213842.png",
+    "React/5. Esenciales II/7. Evento bubbling.md",
+    "React/5. Esenciales II/extras/Pasted image 20240514213734.png",
+    "React/5. Esenciales II/extras/Pasted image 20240514213723.png",
+    "React/5. Esenciales II/extras/Pasted image 20240514213656.png",
+    "React/5. Esenciales II/extras/Pasted image 20240514213554.png",
+    "React/5. Esenciales II/extras/Pasted image 20240514213537.png",
+    "React/5. Esenciales II/6. Pasando Eventos como Props.md",
+    "React/5. Esenciales II/5. Manejando Eventos.md",
+    "React/5. Esenciales II/4. Sesion 1. Aprendido en Clases.md",
+    "React/5. Esenciales II/3. Renderizando Listas.md",
+    "React/5. Esenciales II/2. Renderizando Condicionales.md",
+    "React/5. Esenciales II/1. Creando Primer Componente del Proyecto.md",
+    "React/5. Esenciales II/extras",
+    "React/5. Esenciales II/19. Como usar useImperativeHandle.md",
+    "React/5. Esenciales II/18. Implementando forwardRef.md",
+    "React/5. Esenciales II/17. Ejemplo Usando useRef.md",
+    "React/5. Esenciales II/16. Que son las ref.md",
+    "React/5. Esenciales II/15. Creando hook reusable.md",
+    "React/5. Esenciales II/14. Como funciona useEffect.md",
+    "React/5. Esenciales II/13. Reglas de los Hooks.md",
+    "React/5. Esenciales II/11. Migrando React Hook Form.md",
+    "React/5. Esenciales II/10. Dependencias para el manejo de Formularios.md",
+    "React/5. Esenciales II/9. Agregando Formularios.md",
+    "React/5. Esenciales II/8. Sesion 2. Aprendido en Clase.md",
+    "React/5. Esenciales II/Sin título",
+    "React/4. Presentacion Proyecto/2. Estructura de Carpetas.md",
+    "React/5. Esenciales II",
+    "React/4. Presentacion Proyecto/1.Descripcion Del Proyecto.md",
+    "React/4. Presentacion Proyecto/extras",
+    "React/3.Vite/4. Como funciona los Archivos Principales.md",
+    "React/4. Presentacion Proyecto",
+    "React/Sin título.md",
+    "React/3.Vite/3. Creando Proyecto con Vite.md",
     "React/3.Vite/2. Como funciona Vite.md",
-    "React/3.Vite/extras/Pasted image 20240514191125.png",
-    "React/3.Vite/extras/Pasted image 20240514190955.png",
-    "React/3.Vite/extras/Pasted image 20240514190834.png",
-    "React/3.Vite/extras/Pasted image 20240514190447.png",
+    "React/3.Vite/1. Que es Bundler.md",
     "React/3.Vite/extras",
-    "React/2.Esenciales I/6. Props.md",
-    "React/2.Esenciales I/extras/Pasted image 20240514190228.png",
-    "React/2.Esenciales I/extras/Pasted image 20240514190206.png",
-    "React/2.Esenciales I/extras/Pasted image 20240514190128.png",
-    "React/2.Esenciales I/extras/Pasted image 20240514190046.png",
-    "React/2.Esenciales I/extras/Pasted image 20240514190015.png",
-    "React/2.Esenciales I/5.Inmutabilidad.md",
-    "React/2.Esenciales I/4. State.md",
     "React/2.Esenciales I/extras/04-Inmutabilidad.pdf",
     "React/2.Esenciales I/extras/04-Inmutabilidad.pdf.opdownload",
-    "React/1.Introduccion/5.Pensando en Componentes.md",
-    "React/1.Introduccion/4.Ecosistema de React.md",
-    "React/2.Esenciales I/3. Reactividad.md",
-    "React/Indice React.md",
-    "React/1.Introduccion/3.Virtual DOM.md",
-    "React/1.Introduccion/2.Que es React.md",
     "React/2.Esenciales I/extras/02-VirtualDOM.pdf",
     "React/2.Esenciales I/extras/02-VirtualDOM.pdf.opdownload",
-    "React/2.Esenciales I/2. Componentes.md",
-    "React/2.Esenciales I/1. JSX.md",
-    "React/2.Esenciales I/extras",
-    "React/1.Introduccion/6.Entorno de Desarrollo.md",
-    "React/1.Introduccion/1.Introduccion.md",
     "React/Introduccion/Sin título.canvas",
-    "React/1.Introduccion/extras/02-VirtualDOM.pdf",
-    "React/Introduccion/extras/02-VirtualDOM.pdf.opdownload",
-    "React/1.Introduccion/extras/01- ReactJs.pdf",
-    "React/Introduccion/extras/01- ReactJs.pdf.opdownload",
-    "Python/Introduccion/Tipo Dinamico.md",
-    "Python/Introduccion/Variables.md",
-    "Python/Introduccion/Introduccion.md",
-    "Python/Introduccion/Constantes.md",
-    "Python/Introduccion/Palabras reservadas y Comentarios.md",
-    "Python/Introduccion/Tipos de Datos.md",
-    "Git/Indice Git.md",
-    "SpringFramework-SpringBoot/Indice Spring.md",
-    "Python/Indice Python.md",
-    "Sin título.canvas",
-    "Semana 4/Introduccion a Bootstrap.md"
+    "Sin título.canvas"
   ]
 }
