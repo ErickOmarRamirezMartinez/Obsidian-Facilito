@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/7. Routing/8. Obteniendo Valores de los Parametros.md",
+                "file": "React/Recursos Informaticos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/7. Routing/8. Obteniendo Valores de los Parametros.md",
+                "file": "React/Recursos Informaticos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/7. Routing/8. Obteniendo Valores de los Parametros.md",
+                "file": "React/Recursos Informaticos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/7. Routing/8. Obteniendo Valores de los Parametros.md"
+                "file": "React/Recursos Informaticos.md"
               }
             }
           }
@@ -150,19 +150,34 @@
   },
   "active": "413814925b8927be",
   "lastOpenFiles": [
-    "React/7. Routing/extras/Pasted image 20240514235602.png",
-    "React/7. Routing/extras/Pasted image 20240514235547.png",
-    "React/7. Routing/extras/Pasted image 20240514235529.png",
-    "React/7. Routing/extras/Pasted image 20240514235503.png",
-    "React/7. Routing/7. Rutas Anidadas.md",
+    "React/9. State Managment/3. Implementando zustand en nuestro proyecto.md",
+    "React/Recursos Informaticos.md",
+    "React/9. State Managment/2. Zustand.md",
+    "React/9. State Managment/1. ¿Qué es un state management.md",
+    "React/9. State Managment/State Management.pdf",
+    "React/9. State Managment/State Management.pdf.opdownload",
+    "React/8. Fetching/6. Estilizando y agregando info de ticketmaster.md",
+    "React/9. State Managment",
+    "React/8. Fetching/5. Implementando fetch en la pantalla de detalle.md",
+    "React/8. Fetching/4. Implementando paginación en el proyecto.md",
+    "React/8. Fetching/extras/Sin título.md",
+    "React/8. Fetching/3. Enviando parametros a la API.md",
+    "React/8. Fetching/2. Como funciona el endpoint de eventos.md",
+    "React/8. Fetching/1. Obteniendo APIKey de Ticketmaster.md",
+    "React/8. Fetching/extras/Pasted image 20240515000941.png",
+    "React/8. Fetching/extras/Pasted image 20240515000931.png",
+    "React/8. Fetching/extras/Pasted image 20240515000923.png",
+    "React/8. Fetching/extras/Pasted image 20240515000859.png",
+    "React/8. Fetching/extras/Pasted image 20240515000842.png",
+    "React/8. Fetching/extras/Pasted image 20240515000834.png",
+    "React/8. Fetching/extras/Pasted image 20240515000812.png",
+    "React/8. Fetching/extras/Pasted image 20240515000746.png",
+    "React/8. Fetching/extras/Pasted image 20240515000729.png",
+    "React/8. Fetching/extras/Pasted image 20240515000717.png",
+    "React/8. Fetching/extras",
     "React/7. Routing/8. Obteniendo Valores de los Parametros.md",
-    "React/7. Routing/extras/Pasted image 20240514235324.png",
-    "React/7. Routing/extras/Pasted image 20240514235312.png",
-    "React/7. Routing/extras/Pasted image 20240514235211.png",
-    "React/7. Routing/extras/Pasted image 20240514235139.png",
-    "React/7. Routing/extras/Pasted image 20240514235125.png",
-    "React/7. Routing/extras/Pasted image 20240514235115.png",
-    "React/7. Routing/extras/Pasted image 20240514235018.png",
+    "React/8. Fetching",
+    "React/7. Routing/7. Rutas Anidadas.md",
     "React/7. Routing/6. Definiendo Parámetros en las Rutas.md",
     "React/7. Routing/5. Rutas No Existentes.md",
     "React/7. Routing/4. Limpiando Componente App.md",
@@ -180,22 +195,7 @@
     "React/5. Esenciales II/18. Implementando forwardRef.md",
     "React/5. Esenciales II/17. Ejemplo Usando useRef.md",
     "React/5. Esenciales II/16. Que son las ref.md",
-    "React/5. Esenciales II/15. Creando hook reusable.md",
-    "React/5. Esenciales II/14. Como funciona useEffect.md",
-    "React/5. Esenciales II/13. Reglas de los Hooks.md",
-    "React/5. Esenciales II/12. Introduccion a Hooks.md",
-    "React/5. Esenciales II/11. Migrando React Hook Form.md",
-    "React/5. Esenciales II/10. Dependencias para el manejo de Formularios.md",
-    "React/5. Esenciales II/9. Agregando Formularios.md",
-    "React/5. Esenciales II/8. Sesion 2. Aprendido en Clase.md",
-    "React/5. Esenciales II/7. Evento bubbling.md",
-    "React/5. Esenciales II/6. Pasando Eventos como Props.md",
     "React/5. Esenciales II/extras",
-    "React/5. Esenciales II/Sin título",
-    "React/5. Esenciales II",
-    "React/4. Presentacion Proyecto/extras",
-    "React/4. Presentacion Proyecto",
-    "React/3.Vite/extras",
     "React/Introduccion/Sin título.canvas",
     "Sin título.canvas"
   ]
