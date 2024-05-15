@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/6. Estilos/3. Implementando Modulos de CSS.md",
+                "file": "React/7. Routing/8. Obteniendo Valores de los Parametros.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/6. Estilos/3. Implementando Modulos de CSS.md",
+                "file": "React/7. Routing/8. Obteniendo Valores de los Parametros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/6. Estilos/3. Implementando Modulos de CSS.md",
+                "file": "React/7. Routing/8. Obteniendo Valores de los Parametros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/6. Estilos/3. Implementando Modulos de CSS.md"
+                "file": "React/7. Routing/8. Obteniendo Valores de los Parametros.md"
               }
             }
           }
@@ -148,22 +148,32 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "4cad84e605af4693",
+  "active": "413814925b8927be",
   "lastOpenFiles": [
-    "React/Sin título",
-    "React/6. Estilos/extras/Pasted image 20240514231648.png",
-    "React/6. Estilos/extras/Pasted image 20240514231633.png",
-    "React/6. Estilos/extras/Pasted image 20240514231621.png",
-    "React/6. Estilos/extras/Pasted image 20240514231605.png",
-    "React/6. Estilos/extras/Pasted image 20240514231537.png",
-    "React/6. Estilos/extras/Pasted image 20240514231521.png",
-    "React/6. Estilos/2. Usando CSS.md",
-    "React/6. Estilos/extras/Pasted image 20240514231340.png",
-    "React/6. Estilos/extras/Pasted image 20240514231301.png",
-    "React/6. Estilos/extras/Pasted image 20240514231245.png",
-    "React/6. Estilos/extras/Pasted image 20240514231220.png",
-    "React/6. Estilos/1. Introduccion a Estilos.md",
+    "React/7. Routing/extras/Pasted image 20240514235602.png",
+    "React/7. Routing/extras/Pasted image 20240514235547.png",
+    "React/7. Routing/extras/Pasted image 20240514235529.png",
+    "React/7. Routing/extras/Pasted image 20240514235503.png",
+    "React/7. Routing/7. Rutas Anidadas.md",
+    "React/7. Routing/8. Obteniendo Valores de los Parametros.md",
+    "React/7. Routing/extras/Pasted image 20240514235324.png",
+    "React/7. Routing/extras/Pasted image 20240514235312.png",
+    "React/7. Routing/extras/Pasted image 20240514235211.png",
+    "React/7. Routing/extras/Pasted image 20240514235139.png",
+    "React/7. Routing/extras/Pasted image 20240514235125.png",
+    "React/7. Routing/extras/Pasted image 20240514235115.png",
+    "React/7. Routing/extras/Pasted image 20240514235018.png",
+    "React/7. Routing/6. Definiendo Parámetros en las Rutas.md",
+    "React/7. Routing/5. Rutas No Existentes.md",
+    "React/7. Routing/4. Limpiando Componente App.md",
+    "React/7. Routing/3. Configurando Routing en Nuestro Proyecto.md",
+    "React/7. Routing/2. Que es el Client Side Routing.md",
+    "React/7. Routing/1. Como funciona Routing.md",
+    "React/7. Routing/extras",
     "React/6. Estilos/3. Implementando Modulos de CSS.md",
+    "React/7. Routing",
+    "React/6. Estilos/2. Usando CSS.md",
+    "React/6. Estilos/1. Introduccion a Estilos.md",
     "React/6. Estilos/extras",
     "React/5. Esenciales II/19. Como usar useImperativeHandle.md",
     "React/6. Estilos",
@@ -180,22 +190,12 @@
     "React/5. Esenciales II/8. Sesion 2. Aprendido en Clase.md",
     "React/5. Esenciales II/7. Evento bubbling.md",
     "React/5. Esenciales II/6. Pasando Eventos como Props.md",
-    "React/5. Esenciales II/5. Manejando Eventos.md",
-    "React/5. Esenciales II/4. Sesion 1. Aprendido en Clases.md",
-    "React/5. Esenciales II/3. Renderizando Listas.md",
-    "React/5. Esenciales II/2. Renderizando Condicionales.md",
-    "React/5. Esenciales II/1. Creando Primer Componente del Proyecto.md",
     "React/5. Esenciales II/extras",
     "React/5. Esenciales II/Sin título",
-    "React/4. Presentacion Proyecto/2. Estructura de Carpetas.md",
     "React/5. Esenciales II",
-    "React/4. Presentacion Proyecto/1.Descripcion Del Proyecto.md",
     "React/4. Presentacion Proyecto/extras",
-    "React/3.Vite/4. Como funciona los Archivos Principales.md",
     "React/4. Presentacion Proyecto",
     "React/3.Vite/extras",
-    "React/2.Esenciales I/extras/04-Inmutabilidad.pdf",
-    "React/2.Esenciales I/extras/04-Inmutabilidad.pdf.opdownload",
     "React/Introduccion/Sin título.canvas",
     "Sin título.canvas"
   ]
