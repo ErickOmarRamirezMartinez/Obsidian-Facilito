@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/5. Esenciales II/15. Creando hook reusable.md",
+                "file": "React/5. Esenciales II/19. Como usar useImperativeHandle.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/5. Esenciales II/15. Creando hook reusable.md",
+                "file": "React/5. Esenciales II/19. Como usar useImperativeHandle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/5. Esenciales II/15. Creando hook reusable.md",
+                "file": "React/5. Esenciales II/19. Como usar useImperativeHandle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/5. Esenciales II/15. Creando hook reusable.md"
+                "file": "React/5. Esenciales II/19. Como usar useImperativeHandle.md"
               }
             }
           }
@@ -150,17 +150,22 @@
   },
   "active": "413814925b8927be",
   "lastOpenFiles": [
+    "React/5. Esenciales II/extras/Pasted image 20240514230636.png",
+    "React/5. Esenciales II/extras/Pasted image 20240514230536.png",
+    "React/5. Esenciales II/extras/Pasted image 20240514230441.png",
+    "React/5. Esenciales II/extras/Pasted image 20240514230427.png",
+    "React/5. Esenciales II/extras/Pasted image 20240514230333.png",
+    "React/5. Esenciales II/18. Implementando forwardRef.md",
+    "React/5. Esenciales II/extras/Pasted image 20240514230302.png",
+    "React/5. Esenciales II/extras/Pasted image 20240514230208.png",
+    "React/5. Esenciales II/extras/Pasted image 20240514230117.png",
+    "React/5. Esenciales II/extras/Pasted image 20240514225927.png",
+    "React/5. Esenciales II/extras/Pasted image 20240514225859.png",
+    "React/5. Esenciales II/extras/Pasted image 20240514225843.png",
+    "React/5. Esenciales II/17. Ejemplo Usando useRef.md",
+    "React/5. Esenciales II/16. Que son las ref.md",
+    "React/5. Esenciales II/15. Creando hook reusable.md",
     "React/5. Esenciales II/14. Como funciona useEffect.md",
-    "React/5. Esenciales II/extras/Pasted image 20240514224333.png",
-    "React/5. Esenciales II/extras/Pasted image 20240514224317.png",
-    "React/5. Esenciales II/extras/Pasted image 20240514224222.png",
-    "React/5. Esenciales II/extras/Pasted image 20240514224117.png",
-    "React/5. Esenciales II/extras/Pasted image 20240514224048.png",
-    "React/5. Esenciales II/extras/Pasted image 20240514224003.png",
-    "React/5. Esenciales II/extras/Pasted image 20240514223946.png",
-    "React/5. Esenciales II/extras/Pasted image 20240514223917.png",
-    "React/5. Esenciales II/extras/Pasted image 20240514223858.png",
-    "React/5. Esenciales II/extras/Pasted image 20240514223622.png",
     "React/5. Esenciales II/13. Reglas de los Hooks.md",
     "React/5. Esenciales II/12. Introduccion a Hooks.md",
     "React/5. Esenciales II/11. Migrando React Hook Form.md",
@@ -176,10 +181,6 @@
     "React/5. Esenciales II/1. Creando Primer Componente del Proyecto.md",
     "React/5. Esenciales II/extras",
     "React/5. Esenciales II/19. Como usar useImperativeHandle.md",
-    "React/5. Esenciales II/18. Implementando forwardRef.md",
-    "React/5. Esenciales II/17. Ejemplo Usando useRef.md",
-    "React/5. Esenciales II/16. Que son las ref.md",
-    "React/5. Esenciales II/15. Creando hook reusable.md",
     "React/5. Esenciales II/Sin título",
     "React/4. Presentacion Proyecto/2. Estructura de Carpetas.md",
     "React/5. Esenciales II",
