@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Recursos Informaticos.md",
+                "file": "JavaScript/1. Introduccion/10. Recibir datos.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 234.5
   },
   "right": {
     "id": "89765bc952e8460c",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Recursos Informaticos.md",
+                "file": "JavaScript/1. Introduccion/10. Recibir datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Recursos Informaticos.md",
+                "file": "JavaScript/1. Introduccion/10. Recibir datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Recursos Informaticos.md"
+                "file": "JavaScript/1. Introduccion/10. Recibir datos.md"
               }
             }
           }
@@ -150,14 +150,36 @@
   },
   "active": "413814925b8927be",
   "lastOpenFiles": [
-    "React/9. State Managment/3. Implementando zustand en nuestro proyecto.md",
+    "JavaScript/1. Introduccion/extras/Pasted image 20240515012558.png",
+    "JavaScript/1. Introduccion/9. Imprimir mensajes.md",
+    "JavaScript/1. Introduccion/10. Recibir datos.md",
+    "JavaScript/1. Introduccion/extras/Pasted image 20240515012230.png",
+    "JavaScript/1. Introduccion/7. Donde Investigar Mas.md",
+    "JavaScript/1. Introduccion/8. Configurar el entorno de trabajo.md",
+    "JavaScript/1. Introduccion/extras/Pasted image 20240515011649.png",
+    "JavaScript/1. Introduccion/extras/Pasted image 20240515011234.png",
+    "JavaScript/1. Introduccion/6. Editor de texto y archivos de javaScript.md",
+    "JavaScript/1. Introduccion/extras/Pasted image 20240515010916.png",
+    "JavaScript/1. Introduccion/5. Cómo ejecutar código de JavaScript.md",
+    "JavaScript/1. Introduccion/extras/Pasted image 20240515010332.png",
+    "JavaScript/1. Introduccion/extras",
+    "JavaScript/1. Introduccion/3. Que cubriremos en el Curso.md",
+    "JavaScript/1. Introduccion/2. Acerca del lenguaje.md",
+    "JavaScript/1. Introduccion/1. Presentación del curso de JavaScrip.md",
     "React/Recursos Informaticos.md",
+    "JavaScript/Sin título 14",
+    "JavaScript/14. Expresiones Regulares",
+    "JavaScript/13. Cadenas a Fondo",
+    "JavaScript/12. Generadores e Iteradores",
+    "JavaScript/11. Modulos",
+    "JavaScript/10. Funciones Asincronas",
+    "JavaScript/9. Programacion Asincrona",
+    "JavaScript/8. Prototipos",
+    "JavaScript/7. Clases",
+    "React/9. State Managment/3. Implementando zustand en nuestro proyecto.md",
     "React/9. State Managment/2. Zustand.md",
     "React/9. State Managment/1. ¿Qué es un state management.md",
-    "React/9. State Managment/State Management.pdf",
-    "React/9. State Managment/State Management.pdf.opdownload",
     "React/8. Fetching/6. Estilizando y agregando info de ticketmaster.md",
-    "React/9. State Managment",
     "React/8. Fetching/5. Implementando fetch en la pantalla de detalle.md",
     "React/8. Fetching/4. Implementando paginación en el proyecto.md",
     "React/8. Fetching/extras/Sin título.md",
@@ -169,33 +191,11 @@
     "React/8. Fetching/extras/Pasted image 20240515000923.png",
     "React/8. Fetching/extras/Pasted image 20240515000859.png",
     "React/8. Fetching/extras/Pasted image 20240515000842.png",
-    "React/8. Fetching/extras/Pasted image 20240515000834.png",
-    "React/8. Fetching/extras/Pasted image 20240515000812.png",
-    "React/8. Fetching/extras/Pasted image 20240515000746.png",
-    "React/8. Fetching/extras/Pasted image 20240515000729.png",
-    "React/8. Fetching/extras/Pasted image 20240515000717.png",
-    "React/8. Fetching/extras",
     "React/7. Routing/8. Obteniendo Valores de los Parametros.md",
-    "React/8. Fetching",
     "React/7. Routing/7. Rutas Anidadas.md",
     "React/7. Routing/6. Definiendo Parámetros en las Rutas.md",
     "React/7. Routing/5. Rutas No Existentes.md",
     "React/7. Routing/4. Limpiando Componente App.md",
-    "React/7. Routing/3. Configurando Routing en Nuestro Proyecto.md",
-    "React/7. Routing/2. Que es el Client Side Routing.md",
-    "React/7. Routing/1. Como funciona Routing.md",
-    "React/7. Routing/extras",
-    "React/6. Estilos/3. Implementando Modulos de CSS.md",
-    "React/7. Routing",
-    "React/6. Estilos/2. Usando CSS.md",
-    "React/6. Estilos/1. Introduccion a Estilos.md",
-    "React/6. Estilos/extras",
-    "React/5. Esenciales II/19. Como usar useImperativeHandle.md",
-    "React/6. Estilos",
-    "React/5. Esenciales II/18. Implementando forwardRef.md",
-    "React/5. Esenciales II/17. Ejemplo Usando useRef.md",
-    "React/5. Esenciales II/16. Que son las ref.md",
-    "React/5. Esenciales II/extras",
     "React/Introduccion/Sin título.canvas",
     "Sin título.canvas"
   ]
