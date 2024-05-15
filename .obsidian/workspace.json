@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/5. Esenciales II/19. Como usar useImperativeHandle.md",
+                "file": "React/6. Estilos/3. Implementando Modulos de CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/5. Esenciales II/19. Como usar useImperativeHandle.md",
+                "file": "React/6. Estilos/3. Implementando Modulos de CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/5. Esenciales II/19. Como usar useImperativeHandle.md",
+                "file": "React/6. Estilos/3. Implementando Modulos de CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/5. Esenciales II/19. Como usar useImperativeHandle.md"
+                "file": "React/6. Estilos/3. Implementando Modulos de CSS.md"
               }
             }
           }
@@ -148,20 +148,26 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "413814925b8927be",
+  "active": "4cad84e605af4693",
   "lastOpenFiles": [
-    "React/5. Esenciales II/extras/Pasted image 20240514230636.png",
-    "React/5. Esenciales II/extras/Pasted image 20240514230536.png",
-    "React/5. Esenciales II/extras/Pasted image 20240514230441.png",
-    "React/5. Esenciales II/extras/Pasted image 20240514230427.png",
-    "React/5. Esenciales II/extras/Pasted image 20240514230333.png",
+    "React/Sin título",
+    "React/6. Estilos/extras/Pasted image 20240514231648.png",
+    "React/6. Estilos/extras/Pasted image 20240514231633.png",
+    "React/6. Estilos/extras/Pasted image 20240514231621.png",
+    "React/6. Estilos/extras/Pasted image 20240514231605.png",
+    "React/6. Estilos/extras/Pasted image 20240514231537.png",
+    "React/6. Estilos/extras/Pasted image 20240514231521.png",
+    "React/6. Estilos/2. Usando CSS.md",
+    "React/6. Estilos/extras/Pasted image 20240514231340.png",
+    "React/6. Estilos/extras/Pasted image 20240514231301.png",
+    "React/6. Estilos/extras/Pasted image 20240514231245.png",
+    "React/6. Estilos/extras/Pasted image 20240514231220.png",
+    "React/6. Estilos/1. Introduccion a Estilos.md",
+    "React/6. Estilos/3. Implementando Modulos de CSS.md",
+    "React/6. Estilos/extras",
+    "React/5. Esenciales II/19. Como usar useImperativeHandle.md",
+    "React/6. Estilos",
     "React/5. Esenciales II/18. Implementando forwardRef.md",
-    "React/5. Esenciales II/extras/Pasted image 20240514230302.png",
-    "React/5. Esenciales II/extras/Pasted image 20240514230208.png",
-    "React/5. Esenciales II/extras/Pasted image 20240514230117.png",
-    "React/5. Esenciales II/extras/Pasted image 20240514225927.png",
-    "React/5. Esenciales II/extras/Pasted image 20240514225859.png",
-    "React/5. Esenciales II/extras/Pasted image 20240514225843.png",
     "React/5. Esenciales II/17. Ejemplo Usando useRef.md",
     "React/5. Esenciales II/16. Que son las ref.md",
     "React/5. Esenciales II/15. Creando hook reusable.md",
@@ -180,7 +186,6 @@
     "React/5. Esenciales II/2. Renderizando Condicionales.md",
     "React/5. Esenciales II/1. Creando Primer Componente del Proyecto.md",
     "React/5. Esenciales II/extras",
-    "React/5. Esenciales II/19. Como usar useImperativeHandle.md",
     "React/5. Esenciales II/Sin título",
     "React/4. Presentacion Proyecto/2. Estructura de Carpetas.md",
     "React/5. Esenciales II",
@@ -188,14 +193,9 @@
     "React/4. Presentacion Proyecto/extras",
     "React/3.Vite/4. Como funciona los Archivos Principales.md",
     "React/4. Presentacion Proyecto",
-    "React/Sin título.md",
-    "React/3.Vite/3. Creando Proyecto con Vite.md",
-    "React/3.Vite/2. Como funciona Vite.md",
     "React/3.Vite/extras",
     "React/2.Esenciales I/extras/04-Inmutabilidad.pdf",
     "React/2.Esenciales I/extras/04-Inmutabilidad.pdf.opdownload",
-    "React/2.Esenciales I/extras/02-VirtualDOM.pdf",
-    "React/2.Esenciales I/extras/02-VirtualDOM.pdf.opdownload",
     "React/Introduccion/Sin título.canvas",
     "Sin título.canvas"
   ]
