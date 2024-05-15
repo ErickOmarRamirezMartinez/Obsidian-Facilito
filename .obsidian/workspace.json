@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/1. Introduccion/10. Recibir datos.md",
+                "file": "JavaScript/2. Concepto basico/13.  undefined, null y NaN.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/1. Introduccion/10. Recibir datos.md",
+                "file": "JavaScript/2. Concepto basico/13.  undefined, null y NaN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/1. Introduccion/10. Recibir datos.md",
+                "file": "JavaScript/2. Concepto basico/13.  undefined, null y NaN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/1. Introduccion/10. Recibir datos.md"
+                "file": "JavaScript/2. Concepto basico/13.  undefined, null y NaN.md"
               }
             }
           }
@@ -150,22 +150,42 @@
   },
   "active": "413814925b8927be",
   "lastOpenFiles": [
-    "JavaScript/1. Introduccion/extras/Pasted image 20240515012558.png",
+    "JavaScript/2. Concepto basico/extras/Pasted image 20240515173320.png",
+    "JavaScript/2. Concepto basico/extras/Pasted image 20240515173226.png",
+    "JavaScript/2. Concepto basico/extras/Pasted image 20240515173208.png",
+    "JavaScript/2. Concepto basico/12.  Ciclos.md",
+    "JavaScript/2. Concepto basico/extras/Pasted image 20240515172712.png",
+    "JavaScript/2. Concepto basico/extras/Pasted image 20240515172635.png",
+    "JavaScript/2. Concepto basico/extras/Pasted image 20240515172624.png",
+    "JavaScript/2. Concepto basico/11.  Condiciones.md",
+    "JavaScript/2. Concepto basico/extras/Pasted image 20240515170038.png",
+    "JavaScript/2. Concepto basico/extras/Pasted image 20240515170024.png",
+    "JavaScript/2. Concepto basico/extras/Pasted image 20240515170006.png",
+    "JavaScript/2. Concepto basico/extras/Pasted image 20240515165951.png",
+    "JavaScript/2. Concepto basico/10.  Operadores lógicos.md",
+    "JavaScript/2. Concepto basico/extras/Pasted image 20240515161219.png",
+    "JavaScript/2. Concepto basico/9.  Operadores de comparación.md",
+    "JavaScript/2. Concepto basico/8.  Truthy y Falsy.md",
+    "JavaScript/2. Concepto basico/7.  Booleanos.md",
+    "JavaScript/2. Concepto basico/6.  Coerción de tipos.md",
+    "JavaScript/2. Concepto basico/5.  Tipos de datos.md",
+    "JavaScript/2. Concepto basico/4.  Números y operaciones aritméticas.md",
+    "JavaScript/2. Concepto basico/3.  Variables y constantes en javaScript.md",
+    "JavaScript/2. Concepto basico/2.  Qué son las variables y las constantes.md",
+    "JavaScript/1. Introduccion/7. Donde Investigar Mas.md",
     "JavaScript/1. Introduccion/9. Imprimir mensajes.md",
     "JavaScript/1. Introduccion/10. Recibir datos.md",
-    "JavaScript/1. Introduccion/extras/Pasted image 20240515012230.png",
-    "JavaScript/1. Introduccion/7. Donde Investigar Mas.md",
-    "JavaScript/1. Introduccion/8. Configurar el entorno de trabajo.md",
-    "JavaScript/1. Introduccion/extras/Pasted image 20240515011649.png",
-    "JavaScript/1. Introduccion/extras/Pasted image 20240515011234.png",
+    "JavaScript/2. Concepto basico/1.  Cómo es el lenguaje técnicamente.md",
+    "JavaScript/2. Concepto basico/extras",
     "JavaScript/1. Introduccion/6. Editor de texto y archivos de javaScript.md",
-    "JavaScript/1. Introduccion/extras/Pasted image 20240515010916.png",
     "JavaScript/1. Introduccion/5. Cómo ejecutar código de JavaScript.md",
-    "JavaScript/1. Introduccion/extras/Pasted image 20240515010332.png",
-    "JavaScript/1. Introduccion/extras",
     "JavaScript/1. Introduccion/3. Que cubriremos en el Curso.md",
     "JavaScript/1. Introduccion/2. Acerca del lenguaje.md",
     "JavaScript/1. Introduccion/1. Presentación del curso de JavaScrip.md",
+    "JavaScript/2. Concepto basico/13.  undefined, null y NaN.md",
+    "React/7. Routing/1. Como funciona Routing.md",
+    "JavaScript/1. Introduccion/8. Configurar el entorno de trabajo.md",
+    "JavaScript/1. Introduccion/extras",
     "React/Recursos Informaticos.md",
     "JavaScript/Sin título 14",
     "JavaScript/14. Expresiones Regulares",
@@ -175,27 +195,7 @@
     "JavaScript/10. Funciones Asincronas",
     "JavaScript/9. Programacion Asincrona",
     "JavaScript/8. Prototipos",
-    "JavaScript/7. Clases",
     "React/9. State Managment/3. Implementando zustand en nuestro proyecto.md",
-    "React/9. State Managment/2. Zustand.md",
-    "React/9. State Managment/1. ¿Qué es un state management.md",
-    "React/8. Fetching/6. Estilizando y agregando info de ticketmaster.md",
-    "React/8. Fetching/5. Implementando fetch en la pantalla de detalle.md",
-    "React/8. Fetching/4. Implementando paginación en el proyecto.md",
-    "React/8. Fetching/extras/Sin título.md",
-    "React/8. Fetching/3. Enviando parametros a la API.md",
-    "React/8. Fetching/2. Como funciona el endpoint de eventos.md",
-    "React/8. Fetching/1. Obteniendo APIKey de Ticketmaster.md",
-    "React/8. Fetching/extras/Pasted image 20240515000941.png",
-    "React/8. Fetching/extras/Pasted image 20240515000931.png",
-    "React/8. Fetching/extras/Pasted image 20240515000923.png",
-    "React/8. Fetching/extras/Pasted image 20240515000859.png",
-    "React/8. Fetching/extras/Pasted image 20240515000842.png",
-    "React/7. Routing/8. Obteniendo Valores de los Parametros.md",
-    "React/7. Routing/7. Rutas Anidadas.md",
-    "React/7. Routing/6. Definiendo Parámetros en las Rutas.md",
-    "React/7. Routing/5. Rutas No Existentes.md",
-    "React/7. Routing/4. Limpiando Componente App.md",
     "React/Introduccion/Sin título.canvas",
     "Sin título.canvas"
   ]
