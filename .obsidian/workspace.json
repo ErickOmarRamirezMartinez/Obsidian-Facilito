@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Indice Git.md",
+                "file": "React/3.Vite/2. Como funciona Vite.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 213.5
   },
   "right": {
     "id": "89765bc952e8460c",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Indice Git.md",
+                "file": "React/3.Vite/2. Como funciona Vite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Indice Git.md",
+                "file": "React/3.Vite/2. Como funciona Vite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Indice Git.md"
+                "file": "React/3.Vite/2. Como funciona Vite.md"
               }
             }
           }
@@ -150,52 +150,53 @@
   },
   "active": "413814925b8927be",
   "lastOpenFiles": [
-    "SpringFramework-SpringBoot/Indice Spring.md",
+    "React/3.Vite/extras/Pasted image 20240514191416.png",
+    "React/3.Vite/extras/Pasted image 20240514191358.png",
+    "React/3.Vite/1. Que es Bundler.md",
+    "React/3.Vite/2. Como funciona Vite.md",
+    "React/3.Vite/extras/Pasted image 20240514191125.png",
+    "React/3.Vite/extras/Pasted image 20240514190955.png",
+    "React/3.Vite/extras/Pasted image 20240514190834.png",
+    "React/3.Vite/extras/Pasted image 20240514190447.png",
+    "React/3.Vite/extras",
+    "React/2.Esenciales I/6. Props.md",
+    "React/2.Esenciales I/extras/Pasted image 20240514190228.png",
+    "React/2.Esenciales I/extras/Pasted image 20240514190206.png",
+    "React/2.Esenciales I/extras/Pasted image 20240514190128.png",
+    "React/2.Esenciales I/extras/Pasted image 20240514190046.png",
+    "React/2.Esenciales I/extras/Pasted image 20240514190015.png",
+    "React/2.Esenciales I/5.Inmutabilidad.md",
+    "React/2.Esenciales I/4. State.md",
+    "React/2.Esenciales I/extras/04-Inmutabilidad.pdf",
+    "React/2.Esenciales I/extras/04-Inmutabilidad.pdf.opdownload",
+    "React/1.Introduccion/5.Pensando en Componentes.md",
+    "React/1.Introduccion/4.Ecosistema de React.md",
+    "React/2.Esenciales I/3. Reactividad.md",
     "React/Indice React.md",
-    "SpringFramework-SpringBoot/Despedida",
-    "SpringFramework-SpringBoot/CRUD Peliculas",
-    "SpringFramework-SpringBoot/Inyeccion de Dependencias",
-    "SpringFramework-SpringBoot/Spring MVC",
-    "SpringFramework-SpringBoot/Introduccion",
+    "React/1.Introduccion/3.Virtual DOM.md",
+    "React/1.Introduccion/2.Que es React.md",
+    "React/2.Esenciales I/extras/02-VirtualDOM.pdf",
+    "React/2.Esenciales I/extras/02-VirtualDOM.pdf.opdownload",
+    "React/2.Esenciales I/2. Componentes.md",
+    "React/2.Esenciales I/1. JSX.md",
+    "React/2.Esenciales I/extras",
+    "React/1.Introduccion/6.Entorno de Desarrollo.md",
+    "React/1.Introduccion/1.Introduccion.md",
+    "React/Introduccion/Sin título.canvas",
+    "React/1.Introduccion/extras/02-VirtualDOM.pdf",
+    "React/Introduccion/extras/02-VirtualDOM.pdf.opdownload",
+    "React/1.Introduccion/extras/01- ReactJs.pdf",
+    "React/Introduccion/extras/01- ReactJs.pdf.opdownload",
+    "Python/Introduccion/Tipo Dinamico.md",
+    "Python/Introduccion/Variables.md",
+    "Python/Introduccion/Introduccion.md",
+    "Python/Introduccion/Constantes.md",
+    "Python/Introduccion/Palabras reservadas y Comentarios.md",
+    "Python/Introduccion/Tipos de Datos.md",
     "Git/Indice Git.md",
-    "React/Vite",
-    "React/Esenciales I",
-    "React/Introduccion",
-    "Git/Configuracion",
+    "SpringFramework-SpringBoot/Indice Spring.md",
     "Python/Indice Python.md",
-    "Git/Conceptos Iniciales",
     "Sin título.canvas",
-    "Semana 4/Introduccion a Bootstrap.md",
-    "Semana 4/Estres.md",
-    "Semana 4/Entrevistas.md",
-    "Semana 4/CV + Taller.md",
-    "Semana 4/05 de Abril de 2024.md",
-    "Semana 4/04 de Abril de 2024.md",
-    "Semana 4/03 de Abril de 2024.md",
-    "Semana 4/01 de Abril de 2024.md",
-    "Notion/Full Stack Java/Semana 3/Introducción a HTML/Introducción a HTML.md",
-    "Notion/5to Semestre/Instrumentación y Control/Class 17 de Abril de 2023/Clase 22 de mayo/extras/image-1684764999152.jpg1915767891570815066.jpg",
-    "Notion/5to Semestre/Instrumentación y Control/Class 17 de Abril de 2023/Clase 22 de mayo/extras/image-1684763725519.jpg6931420164128200237.jpg",
-    "Notion/5to Semestre/Instrumentación y Control/Class 17 de Abril de 2023/Clase 22 de mayo/extras/image-1684762304966.jpg8555078589588348633.jpg",
-    "Notion/5to Semestre/Instrumentación y Control/Class 17 de Abril de 2023/18 de mayo de 2023/extras/image-1684417818752.jpg7448840295315081163.jpg",
-    "Notion/5to Semestre/Instrumentación y Control/Class 17 de Abril de 2023/18 de mayo de 2023/extras/image-1684417159900.jpg4311601369420277015.jpg",
-    "Notion/5to Semestre/Instrumentación y Control/Class 17 de Abril de 2023/18 de mayo de 2023/extras/image-1684415880541.jpg8507358033310026120.jpg",
-    "Notion/5to Semestre/Instrumentación y Control/Class 17 de Abril de 2023/18 de mayo de 2023/extras/image-1684415868636.jpg5994205337081266191.jpg",
-    "Notion/5to Semestre/Instrumentación y Control/Class 17 de Abril de 2023/18 de mayo de 2023/extras/image-1684415847512.jpg2610878978298986465.jpg",
-    "Notion/!!!-Cursos Por Hacer-!!!/Git y GitHub/GIT+GitHub- Todo un sistema de control de versiones de cero/Ramas, Uniones, Conflictos y Tags/extras/Untitled.png",
-    "Notion/!!!-Cursos Por Hacer-!!!/Git y GitHub/GIT+GitHub- Todo un sistema de control de versiones de cero/Ramas, Uniones, Conflictos y Tags/extras/Untitled 5.png",
-    "Notion/Full Stack Java/Semana 1/05 de Marzo del 2024/Base de datos sin título/Fuente- Web development PHP Java - free vector graphic on Pixabay. (n.d.). Retrieved June 21, 2022. https---pixabay.com-vectors-web-development-php-java-code-4202909-.md",
-    "Notion/Full Stack Java/Semana 1/05 de Marzo del 2024/Base de datos sin título/Fuente- Programming developing startup - free photo on Pixabay. (n.d.). Retrieved June 21, 2022. https---pixabay.com-photos-programming-developing-startup-593312-.md",
-    "Notion/Full Stack Java/Semana 1/05 de Marzo del 2024/Base de datos sin título/Fuente- Meeting coworkers group - free photo on Pixabay. (n.d.). Retrieved June 21, 2022. https---pixabay.com-photos-meeting-coworkers-group-office-4156018-.md",
-    "Notion/Full Stack Java/Semana 1/05 de Marzo del 2024/Base de datos sin título/Fuente- Financial Planning Report - free photo on Pixabay. (n.d.). Retrieved June 21, 2022. https---pixabay.com-photos-financial-planning-report-chart-3207895-.md",
-    "Notion/5to Semestre/Instrumentación y Control/Class 17 de Abril de 2023/Clase 22 de mayo/Clase 22 de mayo.md",
-    "Notion/5to Semestre/Instrumentación y Control/Class 17 de Abril de 2023/18 de mayo de 2023/18 de mayo de 2023.md",
-    "Notion/!!!-Cursos Por Hacer-!!!/Git y GitHub/GIT+GitHub- Todo un sistema de control de versiones de cero/Ramas, Uniones, Conflictos y Tags/Ramas, Uniones, Conflictos y Tags.md",
-    "Notion/!!!-Cursos Por Hacer-!!!/Git y GitHub/GIT+GitHub- Todo un sistema de control de versiones de cero/Introducción a los Fundamentos/Introducción a los Fundamentos.md",
-    "Notion/!!!-Cursos Por Hacer-!!!/Git y GitHub/GIT+GitHub- Todo un sistema de control de versiones de cero/GitHub, Git Remote, Push & Pull/GitHub, Git Remote, Push & Pull.md",
-    "Notion/!!!-Cursos Por Hacer-!!!/Git y GitHub/GIT+GitHub- Todo un sistema de control de versiones de cero/GitHub - Básico/GitHub - Básico.md",
-    "Notion/!!!-Cursos Por Hacer-!!!/Git y GitHub/GIT+GitHub- Todo un sistema de control de versiones de cero/Git Stash y Git Rebase - Para realizar cambios/Git Stash y Git Rebase - Para realizar cambios.md",
-    "Notion/!!!-Cursos Por Hacer-!!!/Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL/HTML5/Introduccion a HTML5/Introduccion a HTML5.md",
-    "Notion/!!!-Cursos Por Hacer-!!!/Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL/HTML5/Elementos Basicos/Elementos Basicos.md"
+    "Semana 4/Introduccion a Bootstrap.md"
   ]
 }
