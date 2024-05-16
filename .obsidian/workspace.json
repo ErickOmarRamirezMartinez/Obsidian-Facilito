@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/4. Arreglos/10  Spread y rest sintax.md",
+                "file": "JavaScript/7. Clases/Sin título.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/4. Arreglos/10  Spread y rest sintax.md",
+                "file": "JavaScript/7. Clases/Sin título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/4. Arreglos/10  Spread y rest sintax.md",
+                "file": "JavaScript/7. Clases/Sin título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/4. Arreglos/10  Spread y rest sintax.md"
+                "file": "JavaScript/7. Clases/Sin título.md"
               }
             }
           }
@@ -150,52 +150,52 @@
   },
   "active": "413814925b8927be",
   "lastOpenFiles": [
-    "JavaScript/4. Arreglos/extras/Pasted image 20240516005312.png",
-    "JavaScript/4. Arreglos/extras/Pasted image 20240516005207.png",
-    "JavaScript/4. Arreglos/extras/Pasted image 20240516005101.png",
-    "JavaScript/4. Arreglos/extras/Pasted image 20240516004614.png",
-    "JavaScript/4. Arreglos/extras/Pasted image 20240516004548.png",
-    "JavaScript/4. Arreglos/extras/Pasted image 20240516004527.png",
+    "JavaScript/7. Clases/Sin título 6.md",
+    "JavaScript/7. Clases/Sin título 5.md",
+    "JavaScript/7. Clases/Sin título 4.md",
+    "JavaScript/7. Clases/Sin título 3.md",
+    "JavaScript/7. Clases/Sin título 2.md",
+    "JavaScript/7. Clases/Sin título 1.md",
+    "JavaScript/7. Clases/Sin título.md",
+    "JavaScript/6. El contexto/4.  Bind, call, y apply.md",
+    "JavaScript/6. El contexto/extras/Pasted image 20240516111311.png",
+    "JavaScript/6. El contexto/extras/Pasted image 20240516111233.png",
+    "JavaScript/6. El contexto/extras/Pasted image 20240516111218.png",
+    "JavaScript/6. El contexto/3.  Arrow functions y el contexto.md",
+    "JavaScript/6. El contexto/extras/Pasted image 20240516111051.png",
+    "JavaScript/6. El contexto/extras/Pasted image 20240516111012.png",
+    "JavaScript/6. El contexto/2.  Arrow functions.md",
+    "JavaScript/6. El contexto/extras/Pasted image 20240516110858.png",
+    "JavaScript/6. El contexto/extras/Pasted image 20240516110823.png",
+    "JavaScript/6. El contexto/1.  El contexto explicado.md",
+    "JavaScript/5. Objetos y JSON/6.  Funciones constructoras.md",
+    "JavaScript/5. Objetos y JSON/5.   Destructuring assignment.md",
+    "JavaScript/5. Objetos y JSON/4.  Duplicar o combinar objetos.md",
+    "JavaScript/5. Objetos y JSON/3.   Shorthand syntax.md",
+    "JavaScript/5. Objetos y JSON/2.  Declarar un objeto JSON.md",
+    "JavaScript/5. Objetos y JSON/1.   Qué es la programación orientada a objetos.md",
+    "JavaScript/6. El contexto/extras/Pasted image 20240516020229.png",
+    "JavaScript/6. El contexto/extras/Pasted image 20240516020214.png",
+    "JavaScript/6. El contexto/extras/Pasted image 20240516020201.png",
+    "JavaScript/6. El contexto/extras",
+    "JavaScript/5. Objetos y JSON/extras",
+    "NodeJS/Sin título.md",
+    "NodeJS",
+    "JavaScript/4. Arreglos/10  Spread y rest sintax.md",
     "JavaScript/4. Arreglos/9.  Buscar elementos con un arreglo.md",
-    "JavaScript/4. Arreglos/extras/Pasted image 20240516003910.png",
-    "JavaScript/4. Arreglos/extras/Pasted image 20240516003845.png",
-    "JavaScript/4. Arreglos/extras/Pasted image 20240516003819.png",
-    "JavaScript/4. Arreglos/extras/Pasted image 20240516003748.png",
-    "JavaScript/4. Arreglos/extras/Pasted image 20240516003713.png",
     "JavaScript/4. Arreglos/8.  Reducir un arreglo a un solo elemento con reduce.md",
     "JavaScript/4. Arreglos/7.  Filtrar elementos con filter.md",
     "JavaScript/4. Arreglos/6.  Modificar arreglos con map.md",
     "JavaScript/4. Arreglos/5. Recorrer un arreglo con forEach.md",
     "JavaScript/4. Arreglos/4.  Operaciones funcionales con arreglos.md",
     "JavaScript/4. Arreglos/3.  Recorrer un arreglo.md",
-    "JavaScript/4. Arreglos/2.  Conceptos básicos de los arreglos.md",
-    "JavaScript/4. Arreglos/1  Arreglos y sus usos.md",
-    "JavaScript/2. Concepto basico/12.  Ciclos.md",
     "JavaScript/4. Arreglos/extras",
-    "JavaScript/4. Arreglos/10  Spread y rest sintax.md",
-    "JavaScript/3. Fundamentos de Funciones/8.  Hoisting.md",
-    "JavaScript/3. Fundamentos de Funciones/7.  First class objects.md",
-    "JavaScript/3. Fundamentos de Funciones/6.  Funciones puras.md",
-    "JavaScript/3. Fundamentos de Funciones/5.  Pase por valor y por referencia.md",
-    "JavaScript/3. Fundamentos de Funciones/4.  Argumentos de funciones.md",
-    "JavaScript/3. Fundamentos de Funciones/3.  Alcance de función y de bloque.md",
-    "JavaScript/3. Fundamentos de Funciones/2.  El scope o alcance.md",
-    "JavaScript/3. Fundamentos de Funciones/1.  Introducción a las funciones.md",
     "JavaScript/3. Fundamentos de Funciones/extras",
-    "JavaScript/2. Concepto basico/13.  undefined, null y NaN.md",
-    "JavaScript/2. Concepto basico/11.  Condiciones.md",
-    "JavaScript/2. Concepto basico/10.  Operadores lógicos.md",
-    "JavaScript/2. Concepto basico/9.  Operadores de comparación.md",
-    "JavaScript/2. Concepto basico/8.  Truthy y Falsy.md",
-    "JavaScript/2. Concepto basico/7.  Booleanos.md",
     "JavaScript/2. Concepto basico/extras",
     "JavaScript/1. Introduccion/extras",
     "JavaScript/Sin título 14",
     "JavaScript/14. Expresiones Regulares",
     "JavaScript/13. Cadenas a Fondo",
-    "JavaScript/12. Generadores e Iteradores",
-    "JavaScript/11. Modulos",
-    "JavaScript/10. Funciones Asincronas",
     "React/Introduccion/Sin título.canvas",
     "Sin título.canvas"
   ]
