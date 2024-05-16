@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/7. Clases/Sin título.md",
+                "file": "JavaScript/7. Clases/7.  Métodos y propiedades estáticas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/7. Clases/Sin título.md",
+                "file": "JavaScript/7. Clases/7.  Métodos y propiedades estáticas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/7. Clases/Sin título.md",
+                "file": "JavaScript/7. Clases/7.  Métodos y propiedades estáticas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/7. Clases/Sin título.md"
+                "file": "JavaScript/7. Clases/7.  Métodos y propiedades estáticas.md"
               }
             }
           }
@@ -150,23 +150,28 @@
   },
   "active": "413814925b8927be",
   "lastOpenFiles": [
-    "JavaScript/7. Clases/Sin título 6.md",
-    "JavaScript/7. Clases/Sin título 5.md",
-    "JavaScript/7. Clases/Sin título 4.md",
-    "JavaScript/7. Clases/Sin título 3.md",
-    "JavaScript/7. Clases/Sin título 2.md",
-    "JavaScript/7. Clases/Sin título 1.md",
-    "JavaScript/7. Clases/Sin título.md",
+    "JavaScript/7. Clases/extras/Pasted image 20240516115345.png",
+    "JavaScript/7. Clases/extras/Pasted image 20240516115327.png",
+    "JavaScript/7. Clases/extras/Pasted image 20240516115251.png",
+    "JavaScript/7. Clases/6.  Métodos accesores (Encapsulacion).md",
+    "JavaScript/7. Clases/extras/Pasted image 20240516115142.png",
+    "JavaScript/7. Clases/extras/Pasted image 20240516115125.png",
+    "JavaScript/7. Clases/extras/Pasted image 20240516115037.png",
+    "JavaScript/7. Clases/5.  Herencia de clases.md",
+    "JavaScript/7. Clases/extras/Pasted image 20240516114856.png",
+    "JavaScript/7. Clases/extras/Pasted image 20240516114844.png",
+    "JavaScript/7. Clases/extras/Pasted image 20240516114824.png",
+    "JavaScript/7. Clases/extras/Pasted image 20240516114614.png",
+    "JavaScript/7. Clases/4.  Método constructor.md",
+    "JavaScript/7. Clases/extras/Pasted image 20240516114513.png",
+    "JavaScript/7. Clases/3.  Alcance de propiedades.md",
+    "JavaScript/7. Clases/2.  Definir métodos y propiedades.md",
+    "JavaScript/7. Clases/1.  Definir clases.md",
+    "JavaScript/7. Clases/7.  Métodos y propiedades estáticas.md",
+    "JavaScript/7. Clases/extras",
     "JavaScript/6. El contexto/4.  Bind, call, y apply.md",
-    "JavaScript/6. El contexto/extras/Pasted image 20240516111311.png",
-    "JavaScript/6. El contexto/extras/Pasted image 20240516111233.png",
-    "JavaScript/6. El contexto/extras/Pasted image 20240516111218.png",
     "JavaScript/6. El contexto/3.  Arrow functions y el contexto.md",
-    "JavaScript/6. El contexto/extras/Pasted image 20240516111051.png",
-    "JavaScript/6. El contexto/extras/Pasted image 20240516111012.png",
     "JavaScript/6. El contexto/2.  Arrow functions.md",
-    "JavaScript/6. El contexto/extras/Pasted image 20240516110858.png",
-    "JavaScript/6. El contexto/extras/Pasted image 20240516110823.png",
     "JavaScript/6. El contexto/1.  El contexto explicado.md",
     "JavaScript/5. Objetos y JSON/6.  Funciones constructoras.md",
     "JavaScript/5. Objetos y JSON/5.   Destructuring assignment.md",
@@ -174,9 +179,6 @@
     "JavaScript/5. Objetos y JSON/3.   Shorthand syntax.md",
     "JavaScript/5. Objetos y JSON/2.  Declarar un objeto JSON.md",
     "JavaScript/5. Objetos y JSON/1.   Qué es la programación orientada a objetos.md",
-    "JavaScript/6. El contexto/extras/Pasted image 20240516020229.png",
-    "JavaScript/6. El contexto/extras/Pasted image 20240516020214.png",
-    "JavaScript/6. El contexto/extras/Pasted image 20240516020201.png",
     "JavaScript/6. El contexto/extras",
     "JavaScript/5. Objetos y JSON/extras",
     "NodeJS/Sin título.md",
@@ -188,14 +190,12 @@
     "JavaScript/4. Arreglos/6.  Modificar arreglos con map.md",
     "JavaScript/4. Arreglos/5. Recorrer un arreglo con forEach.md",
     "JavaScript/4. Arreglos/4.  Operaciones funcionales con arreglos.md",
-    "JavaScript/4. Arreglos/3.  Recorrer un arreglo.md",
     "JavaScript/4. Arreglos/extras",
     "JavaScript/3. Fundamentos de Funciones/extras",
     "JavaScript/2. Concepto basico/extras",
     "JavaScript/1. Introduccion/extras",
     "JavaScript/Sin título 14",
     "JavaScript/14. Expresiones Regulares",
-    "JavaScript/13. Cadenas a Fondo",
     "React/Introduccion/Sin título.canvas",
     "Sin título.canvas"
   ]
