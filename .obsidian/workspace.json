@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/7. Clases/7.  Métodos y propiedades estáticas.md",
+                "file": "JavaScript/8. Prototipos/4.  Herencia de prototipos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/7. Clases/7.  Métodos y propiedades estáticas.md",
+                "file": "JavaScript/8. Prototipos/4.  Herencia de prototipos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/7. Clases/7.  Métodos y propiedades estáticas.md",
+                "file": "JavaScript/8. Prototipos/4.  Herencia de prototipos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/7. Clases/7.  Métodos y propiedades estáticas.md"
+                "file": "JavaScript/8. Prototipos/4.  Herencia de prototipos.md"
               }
             }
           }
@@ -150,24 +150,30 @@
   },
   "active": "413814925b8927be",
   "lastOpenFiles": [
-    "JavaScript/7. Clases/extras/Pasted image 20240516115345.png",
-    "JavaScript/7. Clases/extras/Pasted image 20240516115327.png",
-    "JavaScript/7. Clases/extras/Pasted image 20240516115251.png",
+    "JavaScript/8. Prototipos/extras/Pasted image 20240516130159.png",
+    "JavaScript/8. Prototipos/extras/Pasted image 20240516130150.png",
+    "JavaScript/8. Prototipos/extras/Pasted image 20240516130131.png",
+    "JavaScript/8. Prototipos/extras/Pasted image 20240516130123.png",
+    "JavaScript/8. Prototipos/extras/Pasted image 20240516130107.png",
+    "JavaScript/8. Prototipos/extras/Pasted image 20240516125949.png",
+    "JavaScript/8. Prototipos/extras/Pasted image 20240516125911.png",
+    "JavaScript/8. Prototipos/extras/Pasted image 20240516125900.png",
+    "JavaScript/8. Prototipos/3.  Prototipos en la práctica.md",
+    "JavaScript/8. Prototipos/extras/Pasted image 20240516125714.png",
+    "JavaScript/8. Prototipos/extras/Pasted image 20240516125544.png",
+    "JavaScript/8. Prototipos/extras/Pasted image 20240516125002.png",
+    "JavaScript/8. Prototipos/2.  Conceptos de prototipos.md",
+    "JavaScript/8. Prototipos/1.  Programación orientada a prototipos.md",
+    "JavaScript/8. Prototipos/extras",
+    "JavaScript/8. Prototipos/4.  Herencia de prototipos.md",
+    "JavaScript/8. Prototipos/Sin título 4.md",
+    "JavaScript/7. Clases/7.  Métodos y propiedades estáticas.md",
     "JavaScript/7. Clases/6.  Métodos accesores (Encapsulacion).md",
-    "JavaScript/7. Clases/extras/Pasted image 20240516115142.png",
-    "JavaScript/7. Clases/extras/Pasted image 20240516115125.png",
-    "JavaScript/7. Clases/extras/Pasted image 20240516115037.png",
     "JavaScript/7. Clases/5.  Herencia de clases.md",
-    "JavaScript/7. Clases/extras/Pasted image 20240516114856.png",
-    "JavaScript/7. Clases/extras/Pasted image 20240516114844.png",
-    "JavaScript/7. Clases/extras/Pasted image 20240516114824.png",
-    "JavaScript/7. Clases/extras/Pasted image 20240516114614.png",
     "JavaScript/7. Clases/4.  Método constructor.md",
-    "JavaScript/7. Clases/extras/Pasted image 20240516114513.png",
     "JavaScript/7. Clases/3.  Alcance de propiedades.md",
     "JavaScript/7. Clases/2.  Definir métodos y propiedades.md",
     "JavaScript/7. Clases/1.  Definir clases.md",
-    "JavaScript/7. Clases/7.  Métodos y propiedades estáticas.md",
     "JavaScript/7. Clases/extras",
     "JavaScript/6. El contexto/4.  Bind, call, y apply.md",
     "JavaScript/6. El contexto/3.  Arrow functions y el contexto.md",
@@ -185,17 +191,11 @@
     "NodeJS",
     "JavaScript/4. Arreglos/10  Spread y rest sintax.md",
     "JavaScript/4. Arreglos/9.  Buscar elementos con un arreglo.md",
-    "JavaScript/4. Arreglos/8.  Reducir un arreglo a un solo elemento con reduce.md",
-    "JavaScript/4. Arreglos/7.  Filtrar elementos con filter.md",
-    "JavaScript/4. Arreglos/6.  Modificar arreglos con map.md",
-    "JavaScript/4. Arreglos/5. Recorrer un arreglo con forEach.md",
-    "JavaScript/4. Arreglos/4.  Operaciones funcionales con arreglos.md",
     "JavaScript/4. Arreglos/extras",
     "JavaScript/3. Fundamentos de Funciones/extras",
     "JavaScript/2. Concepto basico/extras",
     "JavaScript/1. Introduccion/extras",
     "JavaScript/Sin título 14",
-    "JavaScript/14. Expresiones Regulares",
     "React/Introduccion/Sin título.canvas",
     "Sin título.canvas"
   ]
