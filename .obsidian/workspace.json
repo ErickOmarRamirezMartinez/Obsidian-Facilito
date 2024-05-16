@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/8. Prototipos/4.  Herencia de prototipos.md",
+                "file": "JavaScript/10. Funciones Asincronas/Sin título.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/8. Prototipos/4.  Herencia de prototipos.md",
+                "file": "JavaScript/10. Funciones Asincronas/Sin título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/8. Prototipos/4.  Herencia de prototipos.md",
+                "file": "JavaScript/10. Funciones Asincronas/Sin título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/8. Prototipos/4.  Herencia de prototipos.md"
+                "file": "JavaScript/10. Funciones Asincronas/Sin título.md"
               }
             }
           }
@@ -150,22 +150,34 @@
   },
   "active": "413814925b8927be",
   "lastOpenFiles": [
-    "JavaScript/8. Prototipos/extras/Pasted image 20240516130159.png",
-    "JavaScript/8. Prototipos/extras/Pasted image 20240516130150.png",
-    "JavaScript/8. Prototipos/extras/Pasted image 20240516130131.png",
-    "JavaScript/8. Prototipos/extras/Pasted image 20240516130123.png",
-    "JavaScript/8. Prototipos/extras/Pasted image 20240516130107.png",
-    "JavaScript/8. Prototipos/extras/Pasted image 20240516125949.png",
-    "JavaScript/8. Prototipos/extras/Pasted image 20240516125911.png",
-    "JavaScript/8. Prototipos/extras/Pasted image 20240516125900.png",
+    "JavaScript/10. Funciones Asincronas/Sin título 3.md",
+    "JavaScript/10. Funciones Asincronas/Sin título 2.md",
+    "JavaScript/10. Funciones Asincronas/Sin título 1.md",
+    "JavaScript/10. Funciones Asincronas/Sin título.md",
+    "JavaScript/9. Programacion Asincrona/8.  Encadenar promesas.md",
+    "JavaScript/9. Programacion Asincrona/extras/Pasted image 20240516144225.png",
+    "JavaScript/9. Programacion Asincrona/extras/Pasted image 20240516144202.png",
+    "JavaScript/9. Programacion Asincrona/extras/Pasted image 20240516144046.png",
+    "JavaScript/9. Programacion Asincrona/extras/Pasted image 20240516143843.png",
+    "JavaScript/9. Programacion Asincrona/extras/Pasted image 20240516143757.png",
+    "JavaScript/9. Programacion Asincrona/7.  Resolver múltiples promesas.md",
+    "JavaScript/9. Programacion Asincrona/extras/Pasted image 20240516143548.png",
+    "JavaScript/9. Programacion Asincrona/extras/Pasted image 20240516143440.png",
+    "JavaScript/9. Programacion Asincrona/extras/Pasted image 20240516143405.png",
+    "JavaScript/9. Programacion Asincrona/extras/Pasted image 20240516143344.png",
+    "JavaScript/9. Programacion Asincrona/extras/Pasted image 20240516143301.png",
+    "JavaScript/9. Programacion Asincrona/6.  Crear promesas.md",
+    "JavaScript/9. Programacion Asincrona/5.  Callbacks de las promesas.md",
+    "JavaScript/9. Programacion Asincrona/4.  Promesas.md",
+    "JavaScript/9. Programacion Asincrona/3.  Callbacks.md",
+    "JavaScript/9. Programacion Asincrona/2.  Configuración de node.js.md",
+    "JavaScript/9. Programacion Asincrona/extras",
+    "JavaScript/9. Programacion Asincrona/1.  Qué es la programación asíncrona.md",
+    "JavaScript/8. Prototipos/4.  Herencia de prototipos.md",
     "JavaScript/8. Prototipos/3.  Prototipos en la práctica.md",
-    "JavaScript/8. Prototipos/extras/Pasted image 20240516125714.png",
-    "JavaScript/8. Prototipos/extras/Pasted image 20240516125544.png",
-    "JavaScript/8. Prototipos/extras/Pasted image 20240516125002.png",
     "JavaScript/8. Prototipos/2.  Conceptos de prototipos.md",
     "JavaScript/8. Prototipos/1.  Programación orientada a prototipos.md",
     "JavaScript/8. Prototipos/extras",
-    "JavaScript/8. Prototipos/4.  Herencia de prototipos.md",
     "JavaScript/8. Prototipos/Sin título 4.md",
     "JavaScript/7. Clases/7.  Métodos y propiedades estáticas.md",
     "JavaScript/7. Clases/6.  Métodos accesores (Encapsulacion).md",
@@ -177,25 +189,13 @@
     "JavaScript/7. Clases/extras",
     "JavaScript/6. El contexto/4.  Bind, call, y apply.md",
     "JavaScript/6. El contexto/3.  Arrow functions y el contexto.md",
-    "JavaScript/6. El contexto/2.  Arrow functions.md",
-    "JavaScript/6. El contexto/1.  El contexto explicado.md",
-    "JavaScript/5. Objetos y JSON/6.  Funciones constructoras.md",
-    "JavaScript/5. Objetos y JSON/5.   Destructuring assignment.md",
-    "JavaScript/5. Objetos y JSON/4.  Duplicar o combinar objetos.md",
-    "JavaScript/5. Objetos y JSON/3.   Shorthand syntax.md",
-    "JavaScript/5. Objetos y JSON/2.  Declarar un objeto JSON.md",
-    "JavaScript/5. Objetos y JSON/1.   Qué es la programación orientada a objetos.md",
     "JavaScript/6. El contexto/extras",
     "JavaScript/5. Objetos y JSON/extras",
-    "NodeJS/Sin título.md",
     "NodeJS",
-    "JavaScript/4. Arreglos/10  Spread y rest sintax.md",
-    "JavaScript/4. Arreglos/9.  Buscar elementos con un arreglo.md",
     "JavaScript/4. Arreglos/extras",
     "JavaScript/3. Fundamentos de Funciones/extras",
     "JavaScript/2. Concepto basico/extras",
     "JavaScript/1. Introduccion/extras",
-    "JavaScript/Sin título 14",
     "React/Introduccion/Sin título.canvas",
     "Sin título.canvas"
   ]
