@@ -11,8 +11,12 @@
             "id": "413814925b8927be",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Prueba de Software (QA)/1. ¿Qué es el Testing/4. Caso de Estudio - El Fallo del Mariner 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Prueba de Software (QA)/1. ¿Qué es el Testing/4. Caso de Estudio - El Fallo del Mariner 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Prueba de Software (QA)/1. ¿Qué es el Testing/4. Caso de Estudio - El Fallo del Mariner 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Prueba de Software (QA)/1. ¿Qué es el Testing/4. Caso de Estudio - El Fallo del Mariner 1.md"
+              }
             }
           }
         ]
@@ -142,6 +150,43 @@
   },
   "active": "413814925b8927be",
   "lastOpenFiles": [
+    "Prueba de Software (QA)/1. ¿Qué es el Testing/3. Definición y Objetivos de las Pruebas de Software.md",
+    "Prueba de Software (QA)/1. ¿Qué es el Testing/2. Anatomía del Tester.md",
+    "Prueba de Software (QA)/1. ¿Qué es el Testing/1. Bienvenida al Curso.md",
+    "NodeJS/1. Introducción a NodeJS/4.  Instalación de NodeJS y su Ecosistema.md",
+    "NodeJS/1. Introducción a NodeJS/extras/Pasted image 20240517170857.png",
+    "NodeJS/1. Introducción a NodeJS/3.   Entonces NodeJS no es JavaScript.md",
+    "NodeJS/1. Introducción a NodeJS/extras/Pasted image 20240517170742.png",
+    "NodeJS/1. Introducción a NodeJS/extras/Pasted image 20240517170714.png",
+    "NodeJS/1. Introducción a NodeJS/extras/Pasted image 20240517170234.png",
+    "NodeJS/1. Introducción a NodeJS/extras/Pasted image 20240517170226.png",
+    "NodeJS/1. Introducción a NodeJS/2.   Breve Historia de NodeJS, Deno y Bun.md",
+    "NodeJS/1. Introducción a NodeJS/extras/Pasted image 20240517170153.png",
+    "NodeJS/1. Introducción a NodeJS/extras/Pasted image 20240517170141.png",
+    "NodeJS/1. Introducción a NodeJS/extras/Pasted image 20240517170122.png",
+    "NodeJS/1. Introducción a NodeJS/extras/Pasted image 20240517170051.png",
+    "NodeJS/1. Introducción a NodeJS/extras/Pasted image 20240517170031.png",
+    "NodeJS/1. Introducción a NodeJS/1.  Bienvenida al Curso.md",
+    "NodeJS/1. Introducción a NodeJS/extras",
+    "NodeJS/3. Utilidades en NodeJS/3.  Ejercicio Práctico de Utilidades en NodeJS.md",
+    "NodeJS/3. Utilidades en NodeJS/2.  Manejo de Directorios con NodeJS.md",
+    "NodeJS/3. Utilidades en NodeJS/1.  Manejo de Archivos con NodeJS.md",
+    "NodeJS/3. Utilidades en NodeJS/Sin título 3.md",
+    "NodeJS/3. Utilidades en NodeJS/Sin título 4.md",
+    "NodeJS/2. El Mundo Asíncrono/4.  Nuestro Primer Servidor con NodeJS.md",
+    "NodeJS/2. El Mundo Asíncrono/3.  Programación Orientada a Eventos.md",
+    "NodeJS/2. El Mundo Asíncrono/2.  Programación Asíncrona que parece Síncrona.md",
+    "NodeJS/2. El Mundo Asíncrono/1.  Programación Asíncrona - Callbacks y Promesas.md",
+    "NodeJS/1. Introducción a NodeJS/5.  JavaScript para Impacientes.md",
+    "NodeJS/11. Despliegue de Nuestra Aplicación",
+    "NodeJS/10. Seguridad en NodeJS",
+    "NodeJS/9. Testing en NodeJS",
+    "NodeJS/8. En el medio del Middleware",
+    "NodeJS/7. API Restful en ExpressJS",
+    "NodeJS/6 NodeJS y las Bases de Datos",
+    "NodeJS/5. Servidores Web con ExpressJS",
+    "NodeJS/4. La magia de los Streams",
+    "NodeJS/3. Utilidades en NodeJS",
     "React/7. Routing/6. Definiendo Parámetros en las Rutas.md",
     "React/7. Routing/4. Limpiando Componente App.md",
     "React/7. Routing/2. Que es el Client Side Routing.md",
@@ -151,43 +196,6 @@
     "React/6. Estilos/1. Introduccion a Estilos.md",
     "React/5. Esenciales II/2. Renderizando Condicionales.md",
     "React/4. Presentacion Proyecto/2. Estructura de Carpetas.md",
-    "React/4. Presentacion Proyecto/1.Descripcion Del Proyecto.md",
-    "React/3.Vite/4. Como funciona los Archivos Principales.md",
-    "React/3.Vite/3. Creando Proyecto con Vite.md",
-    "React/3.Vite/2. Como funciona Vite.md",
-    "React/3.Vite/1. Que es Bundler.md",
-    "React/2.Esenciales I/6. Props.md",
-    "React/2.Esenciales I/4. State.md",
-    "React/2.Esenciales I/3. Reactividad.md",
-    "React/2.Esenciales I/2. Componentes.md",
-    "React/2.Esenciales I/1. JSX.md",
-    "React/1.Introduccion/6.Entorno de Desarrollo.md",
-    "React/1.Introduccion/5.Pensando en Componentes.md",
-    "React/1.Introduccion/4.Ecosistema de React.md",
-    "React/1.Introduccion/3.Virtual DOM.md",
-    "React/1.Introduccion/2.Que es React.md",
-    "React/1.Introduccion/1.Introduccion.md",
-    "JavaScript/11. Modulos/5.  ReadOnly imports.md",
-    "Prueba de Software (QA)/5. Pensamiento del Testing/extras/Pasted image 20240516224922.png",
-    "Prueba de Software (QA)/5. Pensamiento del Testing/extras/Pasted image 20240516224912.png",
-    "Prueba de Software (QA)/5. Pensamiento del Testing/extras/Pasted image 20240516224908.png",
-    "Prueba de Software (QA)/5. Pensamiento del Testing/extras/Pasted image 20240516224903.png",
-    "Prueba de Software (QA)/5. Pensamiento del Testing/extras/Pasted image 20240516224852.png",
-    "Prueba de Software (QA)/5. Pensamiento del Testing/extras/Pasted image 20240516224847.png",
-    "Prueba de Software (QA)/5. Pensamiento del Testing/extras/Pasted image 20240516224838.png",
-    "Prueba de Software (QA)/5. Pensamiento del Testing/extras/Pasted image 20240516224829.png",
-    "Prueba de Software (QA)/5. Pensamiento del Testing/extras/Pasted image 20240516224820.png",
-    "Prueba de Software (QA)/5. Pensamiento del Testing/extras/Pasted image 20240516224810.png",
-    "Prueba de Software (QA)/5. Pensamiento del Testing/extras",
-    "Prueba de Software (QA)/4. Fundamentos del Proceso del Testing/extras",
-    "Prueba de Software (QA)/3. Principios del Testing/extras",
-    "Prueba de Software (QA)/2. ¿Por Qué es Necesario el Testing/extras",
-    "Prueba de Software (QA)/1. ¿Qué es el Testing/extras",
-    "Prueba de Software (QA)/5. Pensamiento del Testing",
-    "Prueba de Software (QA)/4. Fundamentos del Proceso del Testing",
-    "Prueba de Software (QA)/3. Principios del Testing",
-    "Prueba de Software (QA)/2. ¿Por Qué es Necesario el Testing",
-    "Prueba de Software (QA)/1. ¿Qué es el Testing",
     "Sin título.canvas",
     "React/Introduccion/Sin título.canvas"
   ]
