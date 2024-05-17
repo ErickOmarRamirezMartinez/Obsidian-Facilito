@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/10. Funciones Asincronas/Sin título.md",
+                "file": "JavaScript/12. Generadores e Iteradores/10.  Iterables y generadores.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/10. Funciones Asincronas/Sin título.md",
+                "file": "JavaScript/12. Generadores e Iteradores/10.  Iterables y generadores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/10. Funciones Asincronas/Sin título.md",
+                "file": "JavaScript/12. Generadores e Iteradores/10.  Iterables y generadores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/10. Funciones Asincronas/Sin título.md"
+                "file": "JavaScript/12. Generadores e Iteradores/10.  Iterables y generadores.md"
               }
             }
           }
@@ -150,52 +150,52 @@
   },
   "active": "413814925b8927be",
   "lastOpenFiles": [
-    "JavaScript/10. Funciones Asincronas/Sin título 3.md",
-    "JavaScript/10. Funciones Asincronas/Sin título 2.md",
-    "JavaScript/10. Funciones Asincronas/Sin título 1.md",
-    "JavaScript/10. Funciones Asincronas/Sin título.md",
-    "JavaScript/9. Programacion Asincrona/8.  Encadenar promesas.md",
-    "JavaScript/9. Programacion Asincrona/extras/Pasted image 20240516144225.png",
-    "JavaScript/9. Programacion Asincrona/extras/Pasted image 20240516144202.png",
-    "JavaScript/9. Programacion Asincrona/extras/Pasted image 20240516144046.png",
-    "JavaScript/9. Programacion Asincrona/extras/Pasted image 20240516143843.png",
-    "JavaScript/9. Programacion Asincrona/extras/Pasted image 20240516143757.png",
-    "JavaScript/9. Programacion Asincrona/7.  Resolver múltiples promesas.md",
-    "JavaScript/9. Programacion Asincrona/extras/Pasted image 20240516143548.png",
-    "JavaScript/9. Programacion Asincrona/extras/Pasted image 20240516143440.png",
-    "JavaScript/9. Programacion Asincrona/extras/Pasted image 20240516143405.png",
-    "JavaScript/9. Programacion Asincrona/extras/Pasted image 20240516143344.png",
-    "JavaScript/9. Programacion Asincrona/extras/Pasted image 20240516143301.png",
-    "JavaScript/9. Programacion Asincrona/6.  Crear promesas.md",
-    "JavaScript/9. Programacion Asincrona/5.  Callbacks de las promesas.md",
-    "JavaScript/9. Programacion Asincrona/4.  Promesas.md",
-    "JavaScript/9. Programacion Asincrona/3.  Callbacks.md",
-    "JavaScript/9. Programacion Asincrona/2.  Configuración de node.js.md",
+    "JavaScript/12. Generadores e Iteradores/extras/Pasted image 20240516183038.png",
+    "JavaScript/12. Generadores e Iteradores/extras/Pasted image 20240516183009.png",
+    "JavaScript/12. Generadores e Iteradores/extras/Pasted image 20240516182958.png",
+    "JavaScript/12. Generadores e Iteradores/9.  Iterables con iteradores.md",
+    "JavaScript/12. Generadores e Iteradores/extras/Pasted image 20240516182613.png",
+    "JavaScript/12. Generadores e Iteradores/extras/Pasted image 20240516182444.png",
+    "JavaScript/12. Generadores e Iteradores/extras/Pasted image 20240516182423.png",
+    "JavaScript/12. Generadores e Iteradores/extras/Pasted image 20240516182153.png",
+    "JavaScript/12. Generadores e Iteradores/extras/Pasted image 20240516182132.png",
+    "JavaScript/12. Generadores e Iteradores/extras/Pasted image 20240516182047.png",
+    "JavaScript/12. Generadores e Iteradores/extras/Pasted image 20240516181938.png",
+    "JavaScript/12. Generadores e Iteradores/extras/Pasted image 20240516181810 1.png",
+    "JavaScript/12. Generadores e Iteradores/8.  Manejo de símbolos.md",
+    "JavaScript/12. Generadores e Iteradores/7.  Símbolos en JavaScript.md",
+    "JavaScript/12. Generadores e Iteradores/6.  Dónde se usan los generadores.md",
+    "JavaScript/12. Generadores e Iteradores/5.  Delegar generadores.md",
+    "JavaScript/12. Generadores e Iteradores/4.  Return en funciones generadoras.md",
+    "JavaScript/12. Generadores e Iteradores/3.  Generadores.md",
+    "JavaScript/12. Generadores e Iteradores/2.  Iteradores.md",
+    "JavaScript/12. Generadores e Iteradores/extras",
+    "JavaScript/12. Generadores e Iteradores/1.  Generadores e Iteradores.md",
+    "JavaScript/12. Generadores e Iteradores/10.  Iterables y generadores.md",
+    "JavaScript/12. Generadores e Iteradores/Sin título 10.md",
+    "JavaScript/11. Modulos/5.  ReadOnly imports.md",
+    "JavaScript/11. Modulos/4.  Valores por defecto.md",
+    "JavaScript/11. Modulos/3.  Trabajando con módulos.md",
+    "JavaScript/11. Modulos/2.  Por qué son importantes los módulos.md",
+    "JavaScript/11. Modulos/extras",
+    "JavaScript/11. Modulos/1.  Módulos en JavaScript.md",
+    "JavaScript/10. Funciones Asincronas/4.  Manejar errores en promesas.md",
+    "React/7. Routing/3. Configurando Routing en Nuestro Proyecto.md",
+    "React/7. Routing/2. Que es el Client Side Routing.md",
+    "React/7. Routing/1. Como funciona Routing.md",
+    "React/4. Presentacion Proyecto/2. Estructura de Carpetas.md",
+    "React/4. Presentacion Proyecto/1.Descripcion Del Proyecto.md",
+    "JavaScript/10. Funciones Asincronas/3.  Await.md",
+    "JavaScript/10. Funciones Asincronas/2.  Async.md",
+    "JavaScript/10. Funciones Asincronas/1.  Funciones asíncronas.md",
+    "JavaScript/10. Funciones Asincronas/extras",
     "JavaScript/9. Programacion Asincrona/extras",
-    "JavaScript/9. Programacion Asincrona/1.  Qué es la programación asíncrona.md",
-    "JavaScript/8. Prototipos/4.  Herencia de prototipos.md",
-    "JavaScript/8. Prototipos/3.  Prototipos en la práctica.md",
-    "JavaScript/8. Prototipos/2.  Conceptos de prototipos.md",
-    "JavaScript/8. Prototipos/1.  Programación orientada a prototipos.md",
     "JavaScript/8. Prototipos/extras",
-    "JavaScript/8. Prototipos/Sin título 4.md",
-    "JavaScript/7. Clases/7.  Métodos y propiedades estáticas.md",
-    "JavaScript/7. Clases/6.  Métodos accesores (Encapsulacion).md",
-    "JavaScript/7. Clases/5.  Herencia de clases.md",
-    "JavaScript/7. Clases/4.  Método constructor.md",
-    "JavaScript/7. Clases/3.  Alcance de propiedades.md",
-    "JavaScript/7. Clases/2.  Definir métodos y propiedades.md",
-    "JavaScript/7. Clases/1.  Definir clases.md",
     "JavaScript/7. Clases/extras",
-    "JavaScript/6. El contexto/4.  Bind, call, y apply.md",
-    "JavaScript/6. El contexto/3.  Arrow functions y el contexto.md",
     "JavaScript/6. El contexto/extras",
     "JavaScript/5. Objetos y JSON/extras",
     "NodeJS",
     "JavaScript/4. Arreglos/extras",
-    "JavaScript/3. Fundamentos de Funciones/extras",
-    "JavaScript/2. Concepto basico/extras",
-    "JavaScript/1. Introduccion/extras",
     "React/Introduccion/Sin título.canvas",
     "Sin título.canvas"
   ]
