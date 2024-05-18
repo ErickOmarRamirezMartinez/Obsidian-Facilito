@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NodeJS/8. En el medio del Middleware/1.  Qué son los Middlewares.md",
+                "file": "NodeJS/8. En el medio del Middleware/6.  Middlewares Recomendados.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5,
-    "collapsed": true
+    "width": 203.5
   },
   "right": {
     "id": "89765bc952e8460c",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NodeJS/8. En el medio del Middleware/1.  Qué son los Middlewares.md",
+                "file": "NodeJS/8. En el medio del Middleware/6.  Middlewares Recomendados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NodeJS/8. En el medio del Middleware/1.  Qué son los Middlewares.md",
+                "file": "NodeJS/8. En el medio del Middleware/6.  Middlewares Recomendados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NodeJS/8. En el medio del Middleware/1.  Qué son los Middlewares.md"
+                "file": "NodeJS/8. En el medio del Middleware/6.  Middlewares Recomendados.md"
               }
             }
           }
@@ -149,20 +148,26 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "413814925b8927be",
+  "active": "4cad84e605af4693",
   "lastOpenFiles": [
-    "NodeJS/7. API Restful en ExpressJS/7.  Método PATCH.id para actualizar un dato.md",
+    "NodeJS/8. En el medio del Middleware/extras/Pasted image 20240517233418.png",
+    "NodeJS/8. En el medio del Middleware/extras/Pasted image 20240517233410.png",
+    "NodeJS/8. En el medio del Middleware/extras/Pasted image 20240517233354.png",
+    "NodeJS/8. En el medio del Middleware/extras/Pasted image 20240517233330.png",
+    "NodeJS/8. En el medio del Middleware/extras/Pasted image 20240517233311.png",
+    "NodeJS/8. En el medio del Middleware/extras/Pasted image 20240517233256.png",
+    "NodeJS/8. En el medio del Middleware/extras/Pasted image 20240517233232.png",
+    "NodeJS/8. En el medio del Middleware/extras/Pasted image 20240517232916.png",
+    "NodeJS/8. En el medio del Middleware/extras/Pasted image 20240517232840.png",
+    "NodeJS/8. En el medio del Middleware/extras/Pasted image 20240517232826.png",
+    "NodeJS/8. En el medio del Middleware/5.  Errores HTTP, Error 404 y Boom.md",
+    "NodeJS/8. En el medio del Middleware/extras/Pasted image 20240517232808.png",
+    "NodeJS/8. En el medio del Middleware/4.  Middleware de Validación de Datos.md",
+    "NodeJS/8. En el medio del Middleware/3.  Esquemas, Validación y Joi.md",
+    "NodeJS/8. En el medio del Middleware/2.  Middlewares de Logging y Error.md",
     "NodeJS/8. En el medio del Middleware/1.  Qué son los Middlewares.md",
-    "NodeJS/7. API Restful en ExpressJS/extras/Pasted image 20240517223648.png",
-    "NodeJS/7. API Restful en ExpressJS/extras/Pasted image 20240517223641.png",
-    "NodeJS/7. API Restful en ExpressJS/extras/Pasted image 20240517223630.png",
-    "NodeJS/7. API Restful en ExpressJS/extras/Pasted image 20240517223612.png",
-    "NodeJS/7. API Restful en ExpressJS/extras/Pasted image 20240517223550.png",
-    "NodeJS/7. API Restful en ExpressJS/extras/Pasted image 20240517223529.png",
-    "NodeJS/7. API Restful en ExpressJS/extras/Pasted image 20240517223301.png",
-    "NodeJS/7. API Restful en ExpressJS/extras/Pasted image 20240517223252.png",
-    "NodeJS/7. API Restful en ExpressJS/extras/Pasted image 20240517223219.png",
-    "NodeJS/7. API Restful en ExpressJS/extras/Pasted image 20240517223207.png",
+    "NodeJS/7. API Restful en ExpressJS/7.  Método PATCH.id para actualizar un dato.md",
+    "NodeJS/8. En el medio del Middleware/extras",
     "NodeJS/7. API Restful en ExpressJS/6.  Método http DELETE.id para eliminar un dato.md",
     "NodeJS/7. API Restful en ExpressJS/5.  Método http GET.id para obtener un dato.md",
     "NodeJS/7. API Restful en ExpressJS/4.  Método http POST para crear datos.md",
@@ -184,10 +189,6 @@
     "NodeJS/9. Testing en NodeJS/4  Haciendo Test de nuestros servicios.md",
     "NodeJS/9. Testing en NodeJS/3.  El arte de Mocking en NodeJS.md",
     "NodeJS/9. Testing en NodeJS/2.  Jest la navaja suiza de los test.md",
-    "NodeJS/8. En el medio del Middleware/6.  Middlewares Recomendados.md",
-    "NodeJS/8. En el medio del Middleware/5.  Errores HTTP, Error 404 y Boom.md",
-    "NodeJS/8. En el medio del Middleware/4.  Middleware de Validación de Datos.md",
-    "NodeJS/8. En el medio del Middleware/3.  Esquemas, Validación y Joi.md",
     "NodeJS/8. En el medio del Middleware/Sin título",
     "NodeJS/6 NodeJS y las Bases de Datos/extras",
     "NodeJS/5. Servidores Web con ExpressJS/extras",
@@ -195,7 +196,6 @@
     "NodeJS/3. Utilidades en NodeJS/extras",
     "NodeJS/2. El Mundo Asíncrono/extras",
     "NodeJS/1. Introducción a NodeJS/extras",
-    "NodeJS/11. Despliegue de Nuestra Aplicación",
     "Sin título.canvas",
     "React/Introduccion/Sin título.canvas"
   ]
