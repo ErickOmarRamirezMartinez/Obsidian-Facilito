@@ -1,5 +1,6 @@
 [
   "obsidian-importer",
   "obsidian42-brat",
-  "git-sync"
+  "git-sync",
+  "obsidian-discordrpc"
 ]
