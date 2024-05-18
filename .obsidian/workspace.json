@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NodeJS/3. Utilidades en NodeJS/1.  Manejo de Archivos con NodeJS.md",
+                "file": "NodeJS/4. La magia de los Streams/1.  Streams y Buffers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NodeJS/3. Utilidades en NodeJS/1.  Manejo de Archivos con NodeJS.md",
+                "file": "NodeJS/4. La magia de los Streams/1.  Streams y Buffers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NodeJS/3. Utilidades en NodeJS/1.  Manejo de Archivos con NodeJS.md",
+                "file": "NodeJS/4. La magia de los Streams/1.  Streams y Buffers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NodeJS/3. Utilidades en NodeJS/1.  Manejo de Archivos con NodeJS.md"
+                "file": "NodeJS/4. La magia de los Streams/1.  Streams y Buffers.md"
               }
             }
           }
@@ -150,22 +150,32 @@
   },
   "active": "413814925b8927be",
   "lastOpenFiles": [
-    "NodeJS/3. Utilidades en NodeJS/extras/Pasted image 20240517180351.png",
-    "NodeJS/3. Utilidades en NodeJS/extras/Pasted image 20240517180344.png",
-    "NodeJS/3. Utilidades en NodeJS/extras/Pasted image 20240517180335.png",
-    "NodeJS/3. Utilidades en NodeJS/extras/Pasted image 20240517180329.png",
+    "NodeJS/4. La magia de los Streams/extras/Pasted image 20240517190651.png",
+    "NodeJS/4. La magia de los Streams/extras/Pasted image 20240517190622.png",
+    "NodeJS/4. La magia de los Streams/extras",
+    "NodeJS/4. La magia de los Streams/4.  Ejercicio Prácitco de Streams en NodeJS.md",
+    "NodeJS/4. La magia de los Streams/3.  Writable Streams.md",
+    "NodeJS/4. La magia de los Streams/2.  Readable Streams.md",
+    "NodeJS/4. La magia de los Streams/1.  Streams y Buffers.md",
+    "NodeJS/3. Utilidades en NodeJS/3.  Ejercicio Práctico de Utilidades en NodeJS.md",
+    "NodeJS/3. Utilidades en NodeJS/extras/Pasted image 20240517185146.png",
+    "NodeJS/3. Utilidades en NodeJS/extras/Pasted image 20240517185139.png",
+    "NodeJS/3. Utilidades en NodeJS/extras/Pasted image 20240517185026.png",
+    "NodeJS/3. Utilidades en NodeJS/extras/Pasted image 20240517185017.png",
+    "NodeJS/3. Utilidades en NodeJS/extras/Pasted image 20240517184345.png",
+    "NodeJS/3. Utilidades en NodeJS/extras/Pasted image 20240517184312.png",
+    "NodeJS/3. Utilidades en NodeJS/extras/Pasted image 20240517184252.png",
+    "NodeJS/3. Utilidades en NodeJS/extras/Pasted image 20240517184210.png",
+    "NodeJS/3. Utilidades en NodeJS/extras/Pasted image 20240517184129.png",
+    "NodeJS/3. Utilidades en NodeJS/2.  Manejo de Directorios con NodeJS.md",
+    "NodeJS/3. Utilidades en NodeJS/1.  Manejo de Archivos con NodeJS.md",
+    "NodeJS/2. El Mundo Asíncrono/2.  Programación Asíncrona que parece Síncrona.md",
+    "NodeJS/2. El Mundo Asíncrono/1.  Programación Asíncrona - Callbacks y Promesas.md",
+    "NodeJS/Material Didactico.md",
+    "NodeJS/1. Introducción a NodeJS/1.  Bienvenida al Curso.md",
     "NodeJS/3. Utilidades en NodeJS/extras",
     "NodeJS/2. El Mundo Asíncrono/4.  Nuestro Primer Servidor con NodeJS.md",
-    "NodeJS/2. El Mundo Asíncrono/extras/Pasted image 20240517180237.png",
-    "NodeJS/2. El Mundo Asíncrono/extras/Pasted image 20240517180225.png",
-    "NodeJS/2. El Mundo Asíncrono/extras/Pasted image 20240517180148.png",
-    "NodeJS/2. El Mundo Asíncrono/extras/Pasted image 20240517180114.png",
-    "NodeJS/2. El Mundo Asíncrono/extras/Pasted image 20240517180056.png",
-    "NodeJS/2. El Mundo Asíncrono/extras/Pasted image 20240517180043.png",
-    "NodeJS/2. El Mundo Asíncrono/extras/Pasted image 20240517175958.png",
     "NodeJS/2. El Mundo Asíncrono/3.  Programación Orientada a Eventos.md",
-    "NodeJS/2. El Mundo Asíncrono/1.  Programación Asíncrona - Callbacks y Promesas.md",
-    "NodeJS/2. El Mundo Asíncrono/2.  Programación Asíncrona que parece Síncrona.md",
     "NodeJS/2. El Mundo Asíncrono/extras",
     "NodeJS/1. Introducción a NodeJS/5.  JavaScript para Impacientes.md",
     "NodeJS/1. Introducción a NodeJS/4.  Instalación de NodeJS y su Ecosistema.md",
@@ -175,11 +185,7 @@
     "Prueba de Software (QA)/1. ¿Qué es el Testing/1. Bienvenida al Curso.md",
     "NodeJS/1. Introducción a NodeJS/3.   Entonces NodeJS no es JavaScript.md",
     "NodeJS/1. Introducción a NodeJS/2.   Breve Historia de NodeJS, Deno y Bun.md",
-    "NodeJS/1. Introducción a NodeJS/1.  Bienvenida al Curso.md",
     "NodeJS/1. Introducción a NodeJS/extras",
-    "NodeJS/3. Utilidades en NodeJS/3.  Ejercicio Práctico de Utilidades en NodeJS.md",
-    "NodeJS/3. Utilidades en NodeJS/2.  Manejo de Directorios con NodeJS.md",
-    "NodeJS/3. Utilidades en NodeJS/1.  Manejo de Archivos con NodeJS.md",
     "NodeJS/3. Utilidades en NodeJS/Sin título 3.md",
     "NodeJS/3. Utilidades en NodeJS/Sin título 4.md",
     "NodeJS/11. Despliegue de Nuestra Aplicación",
@@ -188,14 +194,8 @@
     "NodeJS/8. En el medio del Middleware",
     "NodeJS/7. API Restful en ExpressJS",
     "NodeJS/6 NodeJS y las Bases de Datos",
-    "NodeJS/5. Servidores Web con ExpressJS",
     "React/7. Routing/6. Definiendo Parámetros en las Rutas.md",
     "React/7. Routing/4. Limpiando Componente App.md",
-    "React/7. Routing/2. Que es el Client Side Routing.md",
-    "React/7. Routing/1. Como funciona Routing.md",
-    "React/6. Estilos/3. Implementando Modulos de CSS.md",
-    "React/6. Estilos/2. Usando CSS.md",
-    "React/6. Estilos/1. Introduccion a Estilos.md",
     "Sin título.canvas",
     "React/Introduccion/Sin título.canvas"
   ]
