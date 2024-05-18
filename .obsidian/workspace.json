@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NodeJS/4. La magia de los Streams/1.  Streams y Buffers.md",
+                "file": "NodeJS/5. Servidores Web con ExpressJS/2.  La firma de Express - REquest y Response Objects.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 212.5
   },
   "right": {
     "id": "89765bc952e8460c",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NodeJS/4. La magia de los Streams/1.  Streams y Buffers.md",
+                "file": "NodeJS/5. Servidores Web con ExpressJS/2.  La firma de Express - REquest y Response Objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NodeJS/4. La magia de los Streams/1.  Streams y Buffers.md",
+                "file": "NodeJS/5. Servidores Web con ExpressJS/2.  La firma de Express - REquest y Response Objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NodeJS/4. La magia de los Streams/1.  Streams y Buffers.md"
+                "file": "NodeJS/5. Servidores Web con ExpressJS/2.  La firma de Express - REquest y Response Objects.md"
               }
             }
           }
@@ -148,25 +148,28 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "413814925b8927be",
+  "active": "4cad84e605af4693",
   "lastOpenFiles": [
-    "NodeJS/4. La magia de los Streams/extras/Pasted image 20240517190651.png",
-    "NodeJS/4. La magia de los Streams/extras/Pasted image 20240517190622.png",
-    "NodeJS/4. La magia de los Streams/extras",
+    "NodeJS/5. Servidores Web con ExpressJS/extras/Pasted image 20240517201216.png",
+    "NodeJS/5. Servidores Web con ExpressJS/extras/Pasted image 20240517201056.png",
+    "NodeJS/5. Servidores Web con ExpressJS/extras/Pasted image 20240517201047.png",
+    "NodeJS/5. Servidores Web con ExpressJS/extras/Pasted image 20240517201036.png",
+    "NodeJS/5. Servidores Web con ExpressJS/extras/Pasted image 20240517201022.png",
+    "NodeJS/5. Servidores Web con ExpressJS/extras/Pasted image 20240517200949.png",
+    "NodeJS/5. Servidores Web con ExpressJS/extras/Pasted image 20240517200752.png",
+    "NodeJS/5. Servidores Web con ExpressJS/extras/Pasted image 20240517200738.png",
+    "NodeJS/5. Servidores Web con ExpressJS/extras/Pasted image 20240517200547.png",
+    "NodeJS/5. Servidores Web con ExpressJS/extras/Pasted image 20240517200136.png",
+    "NodeJS/5. Servidores Web con ExpressJS/extras/Pasted image 20240517200045.png",
+    "NodeJS/5. Servidores Web con ExpressJS/1.  Nuestro Primer Servidor en ExpressJS.md",
+    "NodeJS/5. Servidores Web con ExpressJS/extras",
+    "NodeJS/5. Servidores Web con ExpressJS/2.  La firma de Express - REquest y Response Objects.md",
     "NodeJS/4. La magia de los Streams/4.  Ejercicio Prácitco de Streams en NodeJS.md",
     "NodeJS/4. La magia de los Streams/3.  Writable Streams.md",
     "NodeJS/4. La magia de los Streams/2.  Readable Streams.md",
     "NodeJS/4. La magia de los Streams/1.  Streams y Buffers.md",
+    "NodeJS/4. La magia de los Streams/extras",
     "NodeJS/3. Utilidades en NodeJS/3.  Ejercicio Práctico de Utilidades en NodeJS.md",
-    "NodeJS/3. Utilidades en NodeJS/extras/Pasted image 20240517185146.png",
-    "NodeJS/3. Utilidades en NodeJS/extras/Pasted image 20240517185139.png",
-    "NodeJS/3. Utilidades en NodeJS/extras/Pasted image 20240517185026.png",
-    "NodeJS/3. Utilidades en NodeJS/extras/Pasted image 20240517185017.png",
-    "NodeJS/3. Utilidades en NodeJS/extras/Pasted image 20240517184345.png",
-    "NodeJS/3. Utilidades en NodeJS/extras/Pasted image 20240517184312.png",
-    "NodeJS/3. Utilidades en NodeJS/extras/Pasted image 20240517184252.png",
-    "NodeJS/3. Utilidades en NodeJS/extras/Pasted image 20240517184210.png",
-    "NodeJS/3. Utilidades en NodeJS/extras/Pasted image 20240517184129.png",
     "NodeJS/3. Utilidades en NodeJS/2.  Manejo de Directorios con NodeJS.md",
     "NodeJS/3. Utilidades en NodeJS/1.  Manejo de Archivos con NodeJS.md",
     "NodeJS/2. El Mundo Asíncrono/2.  Programación Asíncrona que parece Síncrona.md",
@@ -193,9 +196,6 @@
     "NodeJS/9. Testing en NodeJS",
     "NodeJS/8. En el medio del Middleware",
     "NodeJS/7. API Restful en ExpressJS",
-    "NodeJS/6 NodeJS y las Bases de Datos",
-    "React/7. Routing/6. Definiendo Parámetros en las Rutas.md",
-    "React/7. Routing/4. Limpiando Componente App.md",
     "Sin título.canvas",
     "React/Introduccion/Sin título.canvas"
   ]
