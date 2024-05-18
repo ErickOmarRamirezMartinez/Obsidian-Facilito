@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NodeJS/6 NodeJS y las Bases de Datos/4 .Creación de Tablas y datos de prueba en MySQL.md",
+                "file": "NodeJS/8. En el medio del Middleware/1.  Qué son los Middlewares.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 203.5,
+    "collapsed": true
   },
   "right": {
     "id": "89765bc952e8460c",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NodeJS/6 NodeJS y las Bases de Datos/4 .Creación de Tablas y datos de prueba en MySQL.md",
+                "file": "NodeJS/8. En el medio del Middleware/1.  Qué son los Middlewares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NodeJS/6 NodeJS y las Bases de Datos/4 .Creación de Tablas y datos de prueba en MySQL.md",
+                "file": "NodeJS/8. En el medio del Middleware/1.  Qué son los Middlewares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NodeJS/6 NodeJS y las Bases de Datos/4 .Creación de Tablas y datos de prueba en MySQL.md"
+                "file": "NodeJS/8. En el medio del Middleware/1.  Qué son los Middlewares.md"
               }
             }
           }
@@ -150,52 +151,51 @@
   },
   "active": "413814925b8927be",
   "lastOpenFiles": [
-    "NodeJS/6 NodeJS y las Bases de Datos/extras/Pasted image 20240517211456.png",
-    "NodeJS/6 NodeJS y las Bases de Datos/extras/Pasted image 20240517211449.png",
-    "NodeJS/6 NodeJS y las Bases de Datos/extras/Pasted image 20240517211438.png",
-    "NodeJS/6 NodeJS y las Bases de Datos/extras/Pasted image 20240517211411.png",
-    "NodeJS/6 NodeJS y las Bases de Datos/extras/Pasted image 20240517211022.png",
-    "NodeJS/6 NodeJS y las Bases de Datos/extras/Pasted image 20240517210915.png",
-    "NodeJS/6 NodeJS y las Bases de Datos/extras/Pasted image 20240517210738.png",
-    "NodeJS/6 NodeJS y las Bases de Datos/extras/Pasted image 20240517210730.png",
-    "NodeJS/6 NodeJS y las Bases de Datos/extras/Pasted image 20240517210719.png",
-    "NodeJS/6 NodeJS y las Bases de Datos/extras/Pasted image 20240517210711.png",
-    "NodeJS/6 NodeJS y las Bases de Datos/extras/Pasted image 20240517210646.png",
-    "NodeJS/6 NodeJS y las Bases de Datos/3.  Cómo conectarnos a nuestra instancia de MySQL.md",
-    "NodeJS/6 NodeJS y las Bases de Datos/2.   Creando una base de datos en PlanetScale.md",
-    "NodeJS/6 NodeJS y las Bases de Datos/1.  Por qué necesitamos una base de datos y cuál elegir.md",
-    "NodeJS/6 NodeJS y las Bases de Datos/extras",
-    "NodeJS/6 NodeJS y las Bases de Datos/4 .Creación de Tablas y datos de prueba en MySQL.md",
-    "NodeJS/5. Servidores Web con ExpressJS/2.  La firma de Express - REquest y Response Objects.md",
     "NodeJS/7. API Restful en ExpressJS/7.  Método PATCH.id para actualizar un dato.md",
+    "NodeJS/8. En el medio del Middleware/1.  Qué son los Middlewares.md",
+    "NodeJS/7. API Restful en ExpressJS/extras/Pasted image 20240517223648.png",
+    "NodeJS/7. API Restful en ExpressJS/extras/Pasted image 20240517223641.png",
+    "NodeJS/7. API Restful en ExpressJS/extras/Pasted image 20240517223630.png",
+    "NodeJS/7. API Restful en ExpressJS/extras/Pasted image 20240517223612.png",
+    "NodeJS/7. API Restful en ExpressJS/extras/Pasted image 20240517223550.png",
+    "NodeJS/7. API Restful en ExpressJS/extras/Pasted image 20240517223529.png",
+    "NodeJS/7. API Restful en ExpressJS/extras/Pasted image 20240517223301.png",
+    "NodeJS/7. API Restful en ExpressJS/extras/Pasted image 20240517223252.png",
+    "NodeJS/7. API Restful en ExpressJS/extras/Pasted image 20240517223219.png",
+    "NodeJS/7. API Restful en ExpressJS/extras/Pasted image 20240517223207.png",
     "NodeJS/7. API Restful en ExpressJS/6.  Método http DELETE.id para eliminar un dato.md",
     "NodeJS/7. API Restful en ExpressJS/5.  Método http GET.id para obtener un dato.md",
     "NodeJS/7. API Restful en ExpressJS/4.  Método http POST para crear datos.md",
     "NodeJS/7. API Restful en ExpressJS/3.  Refactorización de nuestro código.md",
     "NodeJS/7. API Restful en ExpressJS/2.  Método http GET para obtener los datos.md",
     "NodeJS/7. API Restful en ExpressJS/1.  Con qué se come el CRUD y el RESTfuls.md",
-    "NodeJS/6 NodeJS y las Bases de Datos/Sin título 4.md",
-    "NodeJS/6 NodeJS y las Bases de Datos/Sin título 5.md",
+    "NodeJS/6 NodeJS y las Bases de Datos/4 .Creación de Tablas y datos de prueba en MySQL.md",
+    "NodeJS/6 NodeJS y las Bases de Datos/3.  Cómo conectarnos a nuestra instancia de MySQL.md",
+    "NodeJS/6 NodeJS y las Bases de Datos/2.   Creando una base de datos en PlanetScale.md",
+    "NodeJS/6 NodeJS y las Bases de Datos/1.  Por qué necesitamos una base de datos y cuál elegir.md",
+    "NodeJS/5. Servidores Web con ExpressJS/2.  La firma de Express - REquest y Response Objects.md",
     "NodeJS/5. Servidores Web con ExpressJS/1.  Nuestro Primer Servidor en ExpressJS.md",
-    "NodeJS/5. Servidores Web con ExpressJS/extras",
     "NodeJS/4. La magia de los Streams/4.  Ejercicio Prácitco de Streams en NodeJS.md",
-    "NodeJS/4. La magia de los Streams/3.  Writable Streams.md",
-    "NodeJS/4. La magia de los Streams/2.  Readable Streams.md",
-    "NodeJS/4. La magia de los Streams/1.  Streams y Buffers.md",
+    "NodeJS/7. API Restful en ExpressJS/extras",
+    "NodeJS/9. Testing en NodeJS/1.  Qué son los Test Unitarios y de Integración.md",
+    "NodeJS/9. Testing en NodeJS/extras",
+    "NodeJS/9. Testing en NodeJS/6.  Extra - Test runner en NodeJS 19.md",
+    "NodeJS/9. Testing en NodeJS/5.  Supertest para probar nuestros endpoints.md",
+    "NodeJS/9. Testing en NodeJS/4  Haciendo Test de nuestros servicios.md",
+    "NodeJS/9. Testing en NodeJS/3.  El arte de Mocking en NodeJS.md",
+    "NodeJS/9. Testing en NodeJS/2.  Jest la navaja suiza de los test.md",
+    "NodeJS/8. En el medio del Middleware/6.  Middlewares Recomendados.md",
+    "NodeJS/8. En el medio del Middleware/5.  Errores HTTP, Error 404 y Boom.md",
+    "NodeJS/8. En el medio del Middleware/4.  Middleware de Validación de Datos.md",
+    "NodeJS/8. En el medio del Middleware/3.  Esquemas, Validación y Joi.md",
+    "NodeJS/8. En el medio del Middleware/Sin título",
+    "NodeJS/6 NodeJS y las Bases de Datos/extras",
+    "NodeJS/5. Servidores Web con ExpressJS/extras",
     "NodeJS/4. La magia de los Streams/extras",
-    "NodeJS/3. Utilidades en NodeJS/3.  Ejercicio Práctico de Utilidades en NodeJS.md",
-    "NodeJS/3. Utilidades en NodeJS/2.  Manejo de Directorios con NodeJS.md",
-    "NodeJS/3. Utilidades en NodeJS/1.  Manejo de Archivos con NodeJS.md",
-    "NodeJS/2. El Mundo Asíncrono/2.  Programación Asíncrona que parece Síncrona.md",
-    "NodeJS/2. El Mundo Asíncrono/1.  Programación Asíncrona - Callbacks y Promesas.md",
-    "NodeJS/Material Didactico.md",
     "NodeJS/3. Utilidades en NodeJS/extras",
     "NodeJS/2. El Mundo Asíncrono/extras",
     "NodeJS/1. Introducción a NodeJS/extras",
     "NodeJS/11. Despliegue de Nuestra Aplicación",
-    "NodeJS/10. Seguridad en NodeJS",
-    "NodeJS/9. Testing en NodeJS",
-    "NodeJS/8. En el medio del Middleware",
     "Sin título.canvas",
     "React/Introduccion/Sin título.canvas"
   ]
