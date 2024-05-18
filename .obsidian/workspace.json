@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NodeJS/5. Servidores Web con ExpressJS/2.  La firma de Express - REquest y Response Objects.md",
+                "file": "NodeJS/6 NodeJS y las Bases de Datos/4 .Creación de Tablas y datos de prueba en MySQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NodeJS/5. Servidores Web con ExpressJS/2.  La firma de Express - REquest y Response Objects.md",
+                "file": "NodeJS/6 NodeJS y las Bases de Datos/4 .Creación de Tablas y datos de prueba en MySQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NodeJS/5. Servidores Web con ExpressJS/2.  La firma de Express - REquest y Response Objects.md",
+                "file": "NodeJS/6 NodeJS y las Bases de Datos/4 .Creación de Tablas y datos de prueba en MySQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NodeJS/5. Servidores Web con ExpressJS/2.  La firma de Express - REquest y Response Objects.md"
+                "file": "NodeJS/6 NodeJS y las Bases de Datos/4 .Creación de Tablas y datos de prueba en MySQL.md"
               }
             }
           }
@@ -148,22 +148,36 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "4cad84e605af4693",
+  "active": "413814925b8927be",
   "lastOpenFiles": [
-    "NodeJS/5. Servidores Web con ExpressJS/extras/Pasted image 20240517201216.png",
-    "NodeJS/5. Servidores Web con ExpressJS/extras/Pasted image 20240517201056.png",
-    "NodeJS/5. Servidores Web con ExpressJS/extras/Pasted image 20240517201047.png",
-    "NodeJS/5. Servidores Web con ExpressJS/extras/Pasted image 20240517201036.png",
-    "NodeJS/5. Servidores Web con ExpressJS/extras/Pasted image 20240517201022.png",
-    "NodeJS/5. Servidores Web con ExpressJS/extras/Pasted image 20240517200949.png",
-    "NodeJS/5. Servidores Web con ExpressJS/extras/Pasted image 20240517200752.png",
-    "NodeJS/5. Servidores Web con ExpressJS/extras/Pasted image 20240517200738.png",
-    "NodeJS/5. Servidores Web con ExpressJS/extras/Pasted image 20240517200547.png",
-    "NodeJS/5. Servidores Web con ExpressJS/extras/Pasted image 20240517200136.png",
-    "NodeJS/5. Servidores Web con ExpressJS/extras/Pasted image 20240517200045.png",
+    "NodeJS/6 NodeJS y las Bases de Datos/extras/Pasted image 20240517211456.png",
+    "NodeJS/6 NodeJS y las Bases de Datos/extras/Pasted image 20240517211449.png",
+    "NodeJS/6 NodeJS y las Bases de Datos/extras/Pasted image 20240517211438.png",
+    "NodeJS/6 NodeJS y las Bases de Datos/extras/Pasted image 20240517211411.png",
+    "NodeJS/6 NodeJS y las Bases de Datos/extras/Pasted image 20240517211022.png",
+    "NodeJS/6 NodeJS y las Bases de Datos/extras/Pasted image 20240517210915.png",
+    "NodeJS/6 NodeJS y las Bases de Datos/extras/Pasted image 20240517210738.png",
+    "NodeJS/6 NodeJS y las Bases de Datos/extras/Pasted image 20240517210730.png",
+    "NodeJS/6 NodeJS y las Bases de Datos/extras/Pasted image 20240517210719.png",
+    "NodeJS/6 NodeJS y las Bases de Datos/extras/Pasted image 20240517210711.png",
+    "NodeJS/6 NodeJS y las Bases de Datos/extras/Pasted image 20240517210646.png",
+    "NodeJS/6 NodeJS y las Bases de Datos/3.  Cómo conectarnos a nuestra instancia de MySQL.md",
+    "NodeJS/6 NodeJS y las Bases de Datos/2.   Creando una base de datos en PlanetScale.md",
+    "NodeJS/6 NodeJS y las Bases de Datos/1.  Por qué necesitamos una base de datos y cuál elegir.md",
+    "NodeJS/6 NodeJS y las Bases de Datos/extras",
+    "NodeJS/6 NodeJS y las Bases de Datos/4 .Creación de Tablas y datos de prueba en MySQL.md",
+    "NodeJS/5. Servidores Web con ExpressJS/2.  La firma de Express - REquest y Response Objects.md",
+    "NodeJS/7. API Restful en ExpressJS/7.  Método PATCH.id para actualizar un dato.md",
+    "NodeJS/7. API Restful en ExpressJS/6.  Método http DELETE.id para eliminar un dato.md",
+    "NodeJS/7. API Restful en ExpressJS/5.  Método http GET.id para obtener un dato.md",
+    "NodeJS/7. API Restful en ExpressJS/4.  Método http POST para crear datos.md",
+    "NodeJS/7. API Restful en ExpressJS/3.  Refactorización de nuestro código.md",
+    "NodeJS/7. API Restful en ExpressJS/2.  Método http GET para obtener los datos.md",
+    "NodeJS/7. API Restful en ExpressJS/1.  Con qué se come el CRUD y el RESTfuls.md",
+    "NodeJS/6 NodeJS y las Bases de Datos/Sin título 4.md",
+    "NodeJS/6 NodeJS y las Bases de Datos/Sin título 5.md",
     "NodeJS/5. Servidores Web con ExpressJS/1.  Nuestro Primer Servidor en ExpressJS.md",
     "NodeJS/5. Servidores Web con ExpressJS/extras",
-    "NodeJS/5. Servidores Web con ExpressJS/2.  La firma de Express - REquest y Response Objects.md",
     "NodeJS/4. La magia de los Streams/4.  Ejercicio Prácitco de Streams en NodeJS.md",
     "NodeJS/4. La magia de los Streams/3.  Writable Streams.md",
     "NodeJS/4. La magia de los Streams/2.  Readable Streams.md",
@@ -175,27 +189,13 @@
     "NodeJS/2. El Mundo Asíncrono/2.  Programación Asíncrona que parece Síncrona.md",
     "NodeJS/2. El Mundo Asíncrono/1.  Programación Asíncrona - Callbacks y Promesas.md",
     "NodeJS/Material Didactico.md",
-    "NodeJS/1. Introducción a NodeJS/1.  Bienvenida al Curso.md",
     "NodeJS/3. Utilidades en NodeJS/extras",
-    "NodeJS/2. El Mundo Asíncrono/4.  Nuestro Primer Servidor con NodeJS.md",
-    "NodeJS/2. El Mundo Asíncrono/3.  Programación Orientada a Eventos.md",
     "NodeJS/2. El Mundo Asíncrono/extras",
-    "NodeJS/1. Introducción a NodeJS/5.  JavaScript para Impacientes.md",
-    "NodeJS/1. Introducción a NodeJS/4.  Instalación de NodeJS y su Ecosistema.md",
-    "Prueba de Software (QA)/1. ¿Qué es el Testing/4. Caso de Estudio - El Fallo del Mariner 1.md",
-    "Prueba de Software (QA)/1. ¿Qué es el Testing/3. Definición y Objetivos de las Pruebas de Software.md",
-    "Prueba de Software (QA)/1. ¿Qué es el Testing/2. Anatomía del Tester.md",
-    "Prueba de Software (QA)/1. ¿Qué es el Testing/1. Bienvenida al Curso.md",
-    "NodeJS/1. Introducción a NodeJS/3.   Entonces NodeJS no es JavaScript.md",
-    "NodeJS/1. Introducción a NodeJS/2.   Breve Historia de NodeJS, Deno y Bun.md",
     "NodeJS/1. Introducción a NodeJS/extras",
-    "NodeJS/3. Utilidades en NodeJS/Sin título 3.md",
-    "NodeJS/3. Utilidades en NodeJS/Sin título 4.md",
     "NodeJS/11. Despliegue de Nuestra Aplicación",
     "NodeJS/10. Seguridad en NodeJS",
     "NodeJS/9. Testing en NodeJS",
     "NodeJS/8. En el medio del Middleware",
-    "NodeJS/7. API Restful en ExpressJS",
     "Sin título.canvas",
     "React/Introduccion/Sin título.canvas"
   ]
