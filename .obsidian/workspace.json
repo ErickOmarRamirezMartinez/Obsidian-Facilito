@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GitHub/2. Introducción/7.  Configuración Inicial.md",
+                "file": "GitHub/3. Manejo de Repositorios/5.  Actualización de Repositorio.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GitHub/2. Introducción/7.  Configuración Inicial.md",
+                "file": "GitHub/3. Manejo de Repositorios/5.  Actualización de Repositorio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GitHub/2. Introducción/7.  Configuración Inicial.md",
+                "file": "GitHub/3. Manejo de Repositorios/5.  Actualización de Repositorio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GitHub/2. Introducción/7.  Configuración Inicial.md"
+                "file": "GitHub/3. Manejo de Repositorios/5.  Actualización de Repositorio.md"
               }
             }
           }
@@ -150,25 +150,31 @@
   },
   "active": "413814925b8927be",
   "lastOpenFiles": [
-    "GitHub/2. Introducción/extras/Pasted image 20240518212509.png",
-    "GitHub/2. Introducción/extras/Pasted image 20240518212456.png",
+    "GitHub/3. Manejo de Repositorios/extras/Pasted image 20240518213446.png",
+    "GitHub/3. Manejo de Repositorios/extras/Pasted image 20240518213434.png",
+    "GitHub/3. Manejo de Repositorios/extras/Pasted image 20240518213420.png",
+    "GitHub/3. Manejo de Repositorios/extras/Pasted image 20240518213346.png",
+    "GitHub/3. Manejo de Repositorios/extras/Pasted image 20240518213332.png",
+    "GitHub/3. Manejo de Repositorios/4.  Descargar repositorios.md",
+    "GitHub/3. Manejo de Repositorios/extras/Pasted image 20240518213319.png",
+    "GitHub/3. Manejo de Repositorios/extras/Pasted image 20240518213245.png",
+    "GitHub/3. Manejo de Repositorios/extras/Pasted image 20240518213236.png",
+    "GitHub/3. Manejo de Repositorios/extras/Pasted image 20240518213222.png",
+    "GitHub/3. Manejo de Repositorios/3.  Creación de Repositorios.md",
+    "GitHub/3. Manejo de Repositorios/extras/Pasted image 20240518213212.png",
+    "GitHub/3. Manejo de Repositorios/extras/Pasted image 20240518213203.png",
+    "GitHub/3. Manejo de Repositorios/2.  Repositorios Locales y Remotos.md",
+    "GitHub/3. Manejo de Repositorios/1.  Repositorios de Git.md",
+    "GitHub/3. Manejo de Repositorios/extras",
+    "GitHub/3. Manejo de Repositorios/5.  Actualización de Repositorio.md",
+    "GitHub/2. Introducción/7.  Configuración Inicial.md",
     "GitHub/2. Introducción/6.  Instalación de Git.md",
-    "GitHub/2. Introducción/extras/Pasted image 20240518212401.png",
-    "GitHub/2. Introducción/extras/Pasted image 20240518212353.png",
     "GitHub/2. Introducción/5.  Creación de Cuenta.md",
     "GitHub/2. Introducción/4.  Git vs. GitHub.md",
-    "GitHub/2. Introducción/extras/Pasted image 20240518212308.png",
-    "GitHub/2. Introducción/extras/Pasted image 20240518212253.png",
-    "GitHub/2. Introducción/extras/Pasted image 20240518212246.png",
     "GitHub/2. Introducción/3.  ¿Qué es GitHub.md",
-    "GitHub/2. Introducción/extras/Pasted image 20240518212233.png",
-    "GitHub/2. Introducción/extras/Pasted image 20240518212227.png",
-    "GitHub/2. Introducción/extras/Pasted image 20240518212220.png",
-    "GitHub/2. Introducción/extras/Pasted image 20240518212213.png",
     "GitHub/2. Introducción/2.  ¿Qué es Git.md",
     "GitHub/2. Introducción/1.  Control de Versiones.md",
     "GitHub/2. Introducción/extras",
-    "GitHub/2. Introducción/7.  Configuración Inicial.md",
     "GitHub/1. Presentación del Curso/Sin título.md",
     "NodeJS/11. Despliegue de Nuestra Aplicación/7.  Recap del Curso y Despedida.md",
     "GitHub/10. Extra",
@@ -179,7 +185,6 @@
     "GitHub/5. GitHub Pages",
     "GitHub/4. GitHub para Trabajo Colaborativo",
     "GitHub/3. Manejo de Repositorios",
-    "GitHub/2. Introducción",
     "GitHub/Sin título.md",
     "NodeJS/11. Despliegue de Nuestra Aplicación/6.  Despliegue en Fly.io.md",
     "NodeJS/11. Despliegue de Nuestra Aplicación/5.  Flag - inspect.md",
@@ -191,11 +196,6 @@
     "NodeJS/10. Seguridad en NodeJS/2.  NPM Audit y Synk.md",
     "NodeJS/10. Seguridad en NodeJS/1.  HTTP Headers y Helmet.md",
     "NodeJS/9. Testing en NodeJS/6.  Extra - Test runner en NodeJS 19.md",
-    "NodeJS/9. Testing en NodeJS/5.  Supertest para probar nuestros endpoints.md",
-    "NodeJS/9. Testing en NodeJS/4  Haciendo Test de nuestros servicios.md",
-    "NodeJS/9. Testing en NodeJS/3.  El arte de Mocking en NodeJS.md",
-    "NodeJS/9. Testing en NodeJS/2.  Jest la navaja suiza de los test.md",
-    "NodeJS/9. Testing en NodeJS/1.  Qué son los Test Unitarios y de Integración.md",
     "Sin título.canvas",
     "React/Introduccion/Sin título.canvas"
   ]
