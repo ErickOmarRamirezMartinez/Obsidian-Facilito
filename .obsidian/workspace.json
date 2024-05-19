@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GitHub/3. Manejo de Repositorios/5.  Actualización de Repositorio.md",
+                "file": "GitHub/4. GitHub para Trabajo Colaborativo/10.  Code Review.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GitHub/3. Manejo de Repositorios/5.  Actualización de Repositorio.md",
+                "file": "GitHub/4. GitHub para Trabajo Colaborativo/10.  Code Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GitHub/3. Manejo de Repositorios/5.  Actualización de Repositorio.md",
+                "file": "GitHub/4. GitHub para Trabajo Colaborativo/10.  Code Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GitHub/3. Manejo de Repositorios/5.  Actualización de Repositorio.md"
+                "file": "GitHub/4. GitHub para Trabajo Colaborativo/10.  Code Review.md"
               }
             }
           }
@@ -150,23 +150,34 @@
   },
   "active": "413814925b8927be",
   "lastOpenFiles": [
-    "GitHub/3. Manejo de Repositorios/extras/Pasted image 20240518213446.png",
-    "GitHub/3. Manejo de Repositorios/extras/Pasted image 20240518213434.png",
-    "GitHub/3. Manejo de Repositorios/extras/Pasted image 20240518213420.png",
-    "GitHub/3. Manejo de Repositorios/extras/Pasted image 20240518213346.png",
-    "GitHub/3. Manejo de Repositorios/extras/Pasted image 20240518213332.png",
+    "GitHub/4. GitHub para Trabajo Colaborativo/extras/Pasted image 20240518220243.png",
+    "GitHub/4. GitHub para Trabajo Colaborativo/extras/Pasted image 20240518220234.png",
+    "GitHub/4. GitHub para Trabajo Colaborativo/extras/Pasted image 20240518220221.png",
+    "GitHub/4. GitHub para Trabajo Colaborativo/extras/Pasted image 20240518220211.png",
+    "GitHub/4. GitHub para Trabajo Colaborativo/extras/Pasted image 20240518220158.png",
+    "GitHub/4. GitHub para Trabajo Colaborativo/extras/Pasted image 20240518220142.png",
+    "GitHub/4. GitHub para Trabajo Colaborativo/extras/Pasted image 20240518220129.png",
+    "GitHub/4. GitHub para Trabajo Colaborativo/9.  Pull Request.md",
+    "GitHub/4. GitHub para Trabajo Colaborativo/extras/Pasted image 20240518220108.png",
+    "GitHub/4. GitHub para Trabajo Colaborativo/extras/Pasted image 20240518220032.png",
+    "GitHub/4. GitHub para Trabajo Colaborativo/extras/Pasted image 20240518220021.png",
+    "GitHub/4. GitHub para Trabajo Colaborativo/extras/Pasted image 20240518220004.png",
+    "GitHub/4. GitHub para Trabajo Colaborativo/8.  Gestión de Proyectos.md",
+    "GitHub/4. GitHub para Trabajo Colaborativo/7.  Issues Pt.2.md",
+    "GitHub/4. GitHub para Trabajo Colaborativo/6.  Issues Pt.1.md",
+    "GitHub/4. GitHub para Trabajo Colaborativo/5.  Mensajes de Commit.md",
+    "GitHub/4. GitHub para Trabajo Colaborativo/4.  Git Workflow.md",
+    "GitHub/4. GitHub para Trabajo Colaborativo/3.  Conflictos de Git.md",
+    "GitHub/4. GitHub para Trabajo Colaborativo/2.  Actualizar Rama de Trabajo.md",
+    "GitHub/4. GitHub para Trabajo Colaborativo/1.  Ramas de Git.md",
+    "GitHub/4. GitHub para Trabajo Colaborativo/extras",
+    "GitHub/4. GitHub para Trabajo Colaborativo/10.  Code Review.md",
+    "GitHub/3. Manejo de Repositorios/5.  Actualización de Repositorio.md",
     "GitHub/3. Manejo de Repositorios/4.  Descargar repositorios.md",
-    "GitHub/3. Manejo de Repositorios/extras/Pasted image 20240518213319.png",
-    "GitHub/3. Manejo de Repositorios/extras/Pasted image 20240518213245.png",
-    "GitHub/3. Manejo de Repositorios/extras/Pasted image 20240518213236.png",
-    "GitHub/3. Manejo de Repositorios/extras/Pasted image 20240518213222.png",
     "GitHub/3. Manejo de Repositorios/3.  Creación de Repositorios.md",
-    "GitHub/3. Manejo de Repositorios/extras/Pasted image 20240518213212.png",
-    "GitHub/3. Manejo de Repositorios/extras/Pasted image 20240518213203.png",
     "GitHub/3. Manejo de Repositorios/2.  Repositorios Locales y Remotos.md",
     "GitHub/3. Manejo de Repositorios/1.  Repositorios de Git.md",
     "GitHub/3. Manejo de Repositorios/extras",
-    "GitHub/3. Manejo de Repositorios/5.  Actualización de Repositorio.md",
     "GitHub/2. Introducción/7.  Configuración Inicial.md",
     "GitHub/2. Introducción/6.  Instalación de Git.md",
     "GitHub/2. Introducción/5.  Creación de Cuenta.md",
@@ -184,18 +195,7 @@
     "GitHub/6. Documentación",
     "GitHub/5. GitHub Pages",
     "GitHub/4. GitHub para Trabajo Colaborativo",
-    "GitHub/3. Manejo de Repositorios",
     "GitHub/Sin título.md",
-    "NodeJS/11. Despliegue de Nuestra Aplicación/6.  Despliegue en Fly.io.md",
-    "NodeJS/11. Despliegue de Nuestra Aplicación/5.  Flag - inspect.md",
-    "NodeJS/11. Despliegue de Nuestra Aplicación/4.  Express debug.md",
-    "NodeJS/11. Despliegue de Nuestra Aplicación/3.  Por fin vas a entender CORS.md",
-    "NodeJS/11. Despliegue de Nuestra Aplicación/2.   El Caché, el Secreto de la Velocidad.md",
-    "NodeJS/11. Despliegue de Nuestra Aplicación/1.  Cómo Preparo mi Aplicación para Producción.md",
-    "NodeJS/10. Seguridad en NodeJS/3.  Supply Chain attacks (socket.dev).md",
-    "NodeJS/10. Seguridad en NodeJS/2.  NPM Audit y Synk.md",
-    "NodeJS/10. Seguridad en NodeJS/1.  HTTP Headers y Helmet.md",
-    "NodeJS/9. Testing en NodeJS/6.  Extra - Test runner en NodeJS 19.md",
     "Sin título.canvas",
     "React/Introduccion/Sin título.canvas"
   ]
