@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GitHub/6. Documentación/1.  Markdown.md",
+                "file": "GitHub/7. GitHub para Open Source/Sin título 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GitHub/6. Documentación/1.  Markdown.md",
+                "file": "GitHub/7. GitHub para Open Source/Sin título 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GitHub/6. Documentación/1.  Markdown.md",
+                "file": "GitHub/7. GitHub para Open Source/Sin título 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GitHub/6. Documentación/1.  Markdown.md"
+                "file": "GitHub/7. GitHub para Open Source/Sin título 2.md"
               }
             }
           }
@@ -148,27 +148,29 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "413814925b8927be",
+  "active": "4cad84e605af4693",
   "lastOpenFiles": [
-    "GitHub/6. Documentación/extras/Pasted image 20240518221747.png",
-    "GitHub/6. Documentación/extras/Pasted image 20240518221740.png",
-    "GitHub/6. Documentación/extras/Pasted image 20240518221734.png",
+    "GitHub/7. GitHub para Open Source/Sin título 1.md",
+    "GitHub/7. GitHub para Open Source/Sin título 2.md",
+    "GitHub/7. GitHub para Open Source/Sin título.md",
+    "GitHub/6. Documentación/3.  Gists.md",
+    "GitHub/6. Documentación/extras/Pasted image 20240518222900.png",
+    "GitHub/6. Documentación/extras/Pasted image 20240518222852.png",
+    "GitHub/6. Documentación/extras/Pasted image 20240518222844.png",
+    "GitHub/6. Documentación/extras/Pasted image 20240518222829.png",
+    "GitHub/6. Documentación/extras/Pasted image 20240518222817.png",
+    "GitHub/6. Documentación/extras/Pasted image 20240518222804.png",
+    "GitHub/6. Documentación/extras/Pasted image 20240518222743.png",
+    "GitHub/6. Documentación/extras/Pasted image 20240518222735.png",
+    "GitHub/6. Documentación/extras/Pasted image 20240518222721.png",
+    "GitHub/6. Documentación/extras/Pasted image 20240518222707.png",
+    "GitHub/6. Documentación/2.  Readme.md",
+    "GitHub/6. Documentación/1.  Markdown.md",
     "GitHub/6. Documentación/extras",
     "GitHub/5. GitHub Pages/3.  Dominio Personalizado.md",
-    "GitHub/5. GitHub Pages/extras/Pasted image 20240518221704.png",
-    "GitHub/5. GitHub Pages/extras/Pasted image 20240518221655.png",
-    "GitHub/5. GitHub Pages/extras/Pasted image 20240518221628.png",
-    "GitHub/5. GitHub Pages/extras/Pasted image 20240518221618.png",
-    "GitHub/5. GitHub Pages/extras/Pasted image 20240518221601.png",
-    "GitHub/5. GitHub Pages/extras/Pasted image 20240518221539.png",
-    "GitHub/5. GitHub Pages/extras/Pasted image 20240518221532.png",
-    "GitHub/5. GitHub Pages/extras/Pasted image 20240518221508.png",
     "GitHub/5. GitHub Pages/2.  Mi primera GitHub Page.md",
     "GitHub/5. GitHub Pages/1.  ¿Qué es GitHub Pages.md",
     "GitHub/5. GitHub Pages/extras",
-    "GitHub/6. Documentación/3.  Gists.md",
-    "GitHub/6. Documentación/2.  Readme.md",
-    "GitHub/6. Documentación/1.  Markdown.md",
     "GitHub/4. GitHub para Trabajo Colaborativo/10.  Code Review.md",
     "GitHub/4. GitHub para Trabajo Colaborativo/9.  Pull Request.md",
     "GitHub/4. GitHub para Trabajo Colaborativo/8.  Gestión de Proyectos.md",
@@ -188,8 +190,6 @@
     "GitHub/3. Manejo de Repositorios/extras",
     "GitHub/2. Introducción/7.  Configuración Inicial.md",
     "GitHub/2. Introducción/6.  Instalación de Git.md",
-    "GitHub/2. Introducción/5.  Creación de Cuenta.md",
-    "GitHub/2. Introducción/4.  Git vs. GitHub.md",
     "GitHub/2. Introducción/extras",
     "GitHub/10. Extra",
     "GitHub/9. GitHub Multiplataforma",
