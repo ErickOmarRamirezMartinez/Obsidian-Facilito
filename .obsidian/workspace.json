@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GitHub/8.  Personalizar nuestro Perfil/1.  Profile Readme.md",
+                "file": "React/1.Introduccion/4.Ecosistema de React.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GitHub/8.  Personalizar nuestro Perfil/1.  Profile Readme.md",
+                "file": "React/1.Introduccion/4.Ecosistema de React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GitHub/8.  Personalizar nuestro Perfil/1.  Profile Readme.md",
+                "file": "React/1.Introduccion/4.Ecosistema de React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GitHub/8.  Personalizar nuestro Perfil/1.  Profile Readme.md"
+                "file": "React/1.Introduccion/4.Ecosistema de React.md"
               }
             }
           }
@@ -150,23 +150,32 @@
   },
   "active": "413814925b8927be",
   "lastOpenFiles": [
+    "React/1.Introduccion/2.Que es React.md",
+    "React/1.Introduccion/1.Introduccion.md",
+    "GitHub/10. Extra/2.  Dependabot.md",
+    "GitHub/10. Extra/extras/Pasted image 20240518225506.png",
+    "GitHub/10. Extra/extras/Pasted image 20240518225456.png",
+    "GitHub/10. Extra/extras/Pasted image 20240518225448.png",
+    "GitHub/10. Extra/extras/Pasted image 20240518225439.png",
+    "GitHub/10. Extra/extras",
+    "GitHub/9. GitHub Multiplataforma/3.  GitHub Mobile.md",
+    "GitHub/9. GitHub Multiplataforma/extras/Pasted image 20240518225349.png",
+    "GitHub/9. GitHub Multiplataforma/extras/Pasted image 20240518225338.png",
+    "GitHub/9. GitHub Multiplataforma/extras/Pasted image 20240518225310.png",
+    "GitHub/9. GitHub Multiplataforma/extras/Pasted image 20240518225301.png",
+    "GitHub/9. GitHub Multiplataforma/extras/Pasted image 20240518225253.png",
+    "GitHub/9. GitHub Multiplataforma/2.  GitHub CLI.md",
+    "GitHub/9. GitHub Multiplataforma/extras/Pasted image 20240518225223.png",
+    "GitHub/9. GitHub Multiplataforma/1.  GitHub Desktop.md",
+    "GitHub/9. GitHub Multiplataforma/extras",
+    "GitHub/8.  Personalizar nuestro Perfil/2.  Themes.md",
+    "GitHub/8.  Personalizar nuestro Perfil/1.  Profile Readme.md",
+    "GitHub/8.  Personalizar nuestro Perfil/extras",
     "GitHub/7. GitHub para Open Source/4.  Repositorios Favoritos.md",
-    "GitHub/7. GitHub para Open Source/extras/Pasted image 20240518223851.png",
-    "GitHub/7. GitHub para Open Source/extras/Pasted image 20240518223841.png",
-    "GitHub/7. GitHub para Open Source/extras/Pasted image 20240518223834.png",
-    "GitHub/7. GitHub para Open Source/extras/Pasted image 20240518223824.png",
-    "GitHub/7. GitHub para Open Source/extras/Pasted image 20240518223806.png",
     "GitHub/7. GitHub para Open Source/3.  Cómo contribuir.md",
-    "GitHub/7. GitHub para Open Source/extras/Pasted image 20240518223617.png",
-    "GitHub/7. GitHub para Open Source/extras/Pasted image 20240518223606.png",
-    "GitHub/7. GitHub para Open Source/extras/Pasted image 20240518223559.png",
     "GitHub/7. GitHub para Open Source/2.  Características de un Repo Open Source.md",
-    "GitHub/7. GitHub para Open Source/extras/Pasted image 20240518223513.png",
-    "GitHub/7. GitHub para Open Source/extras/Pasted image 20240518223340.png",
     "GitHub/7. GitHub para Open Source/1.  ¿Qué es Open Source.md",
     "GitHub/7. GitHub para Open Source/extras",
-    "GitHub/8.  Personalizar nuestro Perfil/1.  Profile Readme.md",
-    "GitHub/8.  Personalizar nuestro Perfil/2.  Themes.md",
     "GitHub/6. Documentación/3.  Gists.md",
     "GitHub/6. Documentación/2.  Readme.md",
     "GitHub/6. Documentación/1.  Markdown.md",
@@ -183,18 +192,10 @@
     "GitHub/4. GitHub para Trabajo Colaborativo/5.  Mensajes de Commit.md",
     "GitHub/4. GitHub para Trabajo Colaborativo/4.  Git Workflow.md",
     "GitHub/4. GitHub para Trabajo Colaborativo/3.  Conflictos de Git.md",
-    "GitHub/4. GitHub para Trabajo Colaborativo/2.  Actualizar Rama de Trabajo.md",
-    "GitHub/4. GitHub para Trabajo Colaborativo/1.  Ramas de Git.md",
     "GitHub/4. GitHub para Trabajo Colaborativo/extras",
-    "GitHub/3. Manejo de Repositorios/5.  Actualización de Repositorio.md",
-    "GitHub/3. Manejo de Repositorios/4.  Descargar repositorios.md",
-    "GitHub/3. Manejo de Repositorios/3.  Creación de Repositorios.md",
     "GitHub/3. Manejo de Repositorios/extras",
     "GitHub/2. Introducción/extras",
     "GitHub/10. Extra",
-    "GitHub/9. GitHub Multiplataforma",
-    "GitHub/8.  Personalizar nuestro Perfil",
-    "GitHub/7. GitHub para Open Source",
     "Sin título.canvas",
     "React/Introduccion/Sin título.canvas"
   ]
