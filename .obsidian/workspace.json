@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NodeJS/8. En el medio del Middleware/6.  Middlewares Recomendados.md",
+                "file": "NodeJS/10. Seguridad en NodeJS/1.  HTTP Headers y Helmet.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NodeJS/8. En el medio del Middleware/6.  Middlewares Recomendados.md",
+                "file": "NodeJS/10. Seguridad en NodeJS/1.  HTTP Headers y Helmet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NodeJS/8. En el medio del Middleware/6.  Middlewares Recomendados.md",
+                "file": "NodeJS/10. Seguridad en NodeJS/1.  HTTP Headers y Helmet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NodeJS/8. En el medio del Middleware/6.  Middlewares Recomendados.md"
+                "file": "NodeJS/10. Seguridad en NodeJS/1.  HTTP Headers y Helmet.md"
               }
             }
           }
@@ -148,20 +148,30 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "4cad84e605af4693",
+  "active": "413814925b8927be",
   "lastOpenFiles": [
-    "NodeJS/8. En el medio del Middleware/extras/Pasted image 20240517233418.png",
-    "NodeJS/8. En el medio del Middleware/extras/Pasted image 20240517233410.png",
-    "NodeJS/8. En el medio del Middleware/extras/Pasted image 20240517233354.png",
-    "NodeJS/8. En el medio del Middleware/extras/Pasted image 20240517233330.png",
-    "NodeJS/8. En el medio del Middleware/extras/Pasted image 20240517233311.png",
-    "NodeJS/8. En el medio del Middleware/extras/Pasted image 20240517233256.png",
-    "NodeJS/8. En el medio del Middleware/extras/Pasted image 20240517233232.png",
-    "NodeJS/8. En el medio del Middleware/extras/Pasted image 20240517232916.png",
-    "NodeJS/8. En el medio del Middleware/extras/Pasted image 20240517232840.png",
-    "NodeJS/8. En el medio del Middleware/extras/Pasted image 20240517232826.png",
+    "NodeJS/10. Seguridad en NodeJS/3.  Supply Chain attacks (socket.dev).md",
+    "NodeJS/10. Seguridad en NodeJS/2.  NPM Audit y Synk.md",
+    "NodeJS/10. Seguridad en NodeJS/1.  HTTP Headers y Helmet.md",
+    "NodeJS/9. Testing en NodeJS/6.  Extra - Test runner en NodeJS 19.md",
+    "NodeJS/9. Testing en NodeJS/extras/Pasted image 20240518183900.png",
+    "NodeJS/9. Testing en NodeJS/extras/Pasted image 20240518183852.png",
+    "NodeJS/9. Testing en NodeJS/extras/Pasted image 20240518183832.png",
+    "NodeJS/9. Testing en NodeJS/extras/Pasted image 20240518183820.png",
+    "NodeJS/9. Testing en NodeJS/extras/Pasted image 20240518183814.png",
+    "NodeJS/9. Testing en NodeJS/extras/Pasted image 20240518183541.png",
+    "NodeJS/9. Testing en NodeJS/extras/Pasted image 20240518183454.png",
+    "NodeJS/9. Testing en NodeJS/extras/Pasted image 20240518183336.png",
+    "NodeJS/9. Testing en NodeJS/extras/Pasted image 20240518183224.png",
+    "NodeJS/9. Testing en NodeJS/5.  Supertest para probar nuestros endpoints.md",
+    "NodeJS/9. Testing en NodeJS/extras/Pasted image 20240518183213.png",
+    "NodeJS/9. Testing en NodeJS/4  Haciendo Test de nuestros servicios.md",
+    "NodeJS/9. Testing en NodeJS/3.  El arte de Mocking en NodeJS.md",
+    "NodeJS/9. Testing en NodeJS/2.  Jest la navaja suiza de los test.md",
+    "NodeJS/9. Testing en NodeJS/1.  Qué son los Test Unitarios y de Integración.md",
+    "NodeJS/9. Testing en NodeJS/extras",
+    "NodeJS/8. En el medio del Middleware/6.  Middlewares Recomendados.md",
     "NodeJS/8. En el medio del Middleware/5.  Errores HTTP, Error 404 y Boom.md",
-    "NodeJS/8. En el medio del Middleware/extras/Pasted image 20240517232808.png",
     "NodeJS/8. En el medio del Middleware/4.  Middleware de Validación de Datos.md",
     "NodeJS/8. En el medio del Middleware/3.  Esquemas, Validación y Joi.md",
     "NodeJS/8. En el medio del Middleware/2.  Middlewares de Logging y Error.md",
@@ -178,17 +188,7 @@
     "NodeJS/6 NodeJS y las Bases de Datos/3.  Cómo conectarnos a nuestra instancia de MySQL.md",
     "NodeJS/6 NodeJS y las Bases de Datos/2.   Creando una base de datos en PlanetScale.md",
     "NodeJS/6 NodeJS y las Bases de Datos/1.  Por qué necesitamos una base de datos y cuál elegir.md",
-    "NodeJS/5. Servidores Web con ExpressJS/2.  La firma de Express - REquest y Response Objects.md",
-    "NodeJS/5. Servidores Web con ExpressJS/1.  Nuestro Primer Servidor en ExpressJS.md",
-    "NodeJS/4. La magia de los Streams/4.  Ejercicio Prácitco de Streams en NodeJS.md",
     "NodeJS/7. API Restful en ExpressJS/extras",
-    "NodeJS/9. Testing en NodeJS/1.  Qué son los Test Unitarios y de Integración.md",
-    "NodeJS/9. Testing en NodeJS/extras",
-    "NodeJS/9. Testing en NodeJS/6.  Extra - Test runner en NodeJS 19.md",
-    "NodeJS/9. Testing en NodeJS/5.  Supertest para probar nuestros endpoints.md",
-    "NodeJS/9. Testing en NodeJS/4  Haciendo Test de nuestros servicios.md",
-    "NodeJS/9. Testing en NodeJS/3.  El arte de Mocking en NodeJS.md",
-    "NodeJS/9. Testing en NodeJS/2.  Jest la navaja suiza de los test.md",
     "NodeJS/8. En el medio del Middleware/Sin título",
     "NodeJS/6 NodeJS y las Bases de Datos/extras",
     "NodeJS/5. Servidores Web con ExpressJS/extras",
