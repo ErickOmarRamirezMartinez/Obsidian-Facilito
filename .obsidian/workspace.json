@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GitHub/4. GitHub para Trabajo Colaborativo/10.  Code Review.md",
+                "file": "GitHub/6. Documentación/1.  Markdown.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 200
   },
   "right": {
     "id": "89765bc952e8460c",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GitHub/4. GitHub para Trabajo Colaborativo/10.  Code Review.md",
+                "file": "GitHub/6. Documentación/1.  Markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GitHub/4. GitHub para Trabajo Colaborativo/10.  Code Review.md",
+                "file": "GitHub/6. Documentación/1.  Markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GitHub/4. GitHub para Trabajo Colaborativo/10.  Code Review.md"
+                "file": "GitHub/6. Documentación/1.  Markdown.md"
               }
             }
           }
@@ -150,18 +150,27 @@
   },
   "active": "413814925b8927be",
   "lastOpenFiles": [
-    "GitHub/4. GitHub para Trabajo Colaborativo/extras/Pasted image 20240518220243.png",
-    "GitHub/4. GitHub para Trabajo Colaborativo/extras/Pasted image 20240518220234.png",
-    "GitHub/4. GitHub para Trabajo Colaborativo/extras/Pasted image 20240518220221.png",
-    "GitHub/4. GitHub para Trabajo Colaborativo/extras/Pasted image 20240518220211.png",
-    "GitHub/4. GitHub para Trabajo Colaborativo/extras/Pasted image 20240518220158.png",
-    "GitHub/4. GitHub para Trabajo Colaborativo/extras/Pasted image 20240518220142.png",
-    "GitHub/4. GitHub para Trabajo Colaborativo/extras/Pasted image 20240518220129.png",
+    "GitHub/6. Documentación/extras/Pasted image 20240518221747.png",
+    "GitHub/6. Documentación/extras/Pasted image 20240518221740.png",
+    "GitHub/6. Documentación/extras/Pasted image 20240518221734.png",
+    "GitHub/6. Documentación/extras",
+    "GitHub/5. GitHub Pages/3.  Dominio Personalizado.md",
+    "GitHub/5. GitHub Pages/extras/Pasted image 20240518221704.png",
+    "GitHub/5. GitHub Pages/extras/Pasted image 20240518221655.png",
+    "GitHub/5. GitHub Pages/extras/Pasted image 20240518221628.png",
+    "GitHub/5. GitHub Pages/extras/Pasted image 20240518221618.png",
+    "GitHub/5. GitHub Pages/extras/Pasted image 20240518221601.png",
+    "GitHub/5. GitHub Pages/extras/Pasted image 20240518221539.png",
+    "GitHub/5. GitHub Pages/extras/Pasted image 20240518221532.png",
+    "GitHub/5. GitHub Pages/extras/Pasted image 20240518221508.png",
+    "GitHub/5. GitHub Pages/2.  Mi primera GitHub Page.md",
+    "GitHub/5. GitHub Pages/1.  ¿Qué es GitHub Pages.md",
+    "GitHub/5. GitHub Pages/extras",
+    "GitHub/6. Documentación/3.  Gists.md",
+    "GitHub/6. Documentación/2.  Readme.md",
+    "GitHub/6. Documentación/1.  Markdown.md",
+    "GitHub/4. GitHub para Trabajo Colaborativo/10.  Code Review.md",
     "GitHub/4. GitHub para Trabajo Colaborativo/9.  Pull Request.md",
-    "GitHub/4. GitHub para Trabajo Colaborativo/extras/Pasted image 20240518220108.png",
-    "GitHub/4. GitHub para Trabajo Colaborativo/extras/Pasted image 20240518220032.png",
-    "GitHub/4. GitHub para Trabajo Colaborativo/extras/Pasted image 20240518220021.png",
-    "GitHub/4. GitHub para Trabajo Colaborativo/extras/Pasted image 20240518220004.png",
     "GitHub/4. GitHub para Trabajo Colaborativo/8.  Gestión de Proyectos.md",
     "GitHub/4. GitHub para Trabajo Colaborativo/7.  Issues Pt.2.md",
     "GitHub/4. GitHub para Trabajo Colaborativo/6.  Issues Pt.1.md",
@@ -171,7 +180,6 @@
     "GitHub/4. GitHub para Trabajo Colaborativo/2.  Actualizar Rama de Trabajo.md",
     "GitHub/4. GitHub para Trabajo Colaborativo/1.  Ramas de Git.md",
     "GitHub/4. GitHub para Trabajo Colaborativo/extras",
-    "GitHub/4. GitHub para Trabajo Colaborativo/10.  Code Review.md",
     "GitHub/3. Manejo de Repositorios/5.  Actualización de Repositorio.md",
     "GitHub/3. Manejo de Repositorios/4.  Descargar repositorios.md",
     "GitHub/3. Manejo de Repositorios/3.  Creación de Repositorios.md",
@@ -182,20 +190,12 @@
     "GitHub/2. Introducción/6.  Instalación de Git.md",
     "GitHub/2. Introducción/5.  Creación de Cuenta.md",
     "GitHub/2. Introducción/4.  Git vs. GitHub.md",
-    "GitHub/2. Introducción/3.  ¿Qué es GitHub.md",
-    "GitHub/2. Introducción/2.  ¿Qué es Git.md",
-    "GitHub/2. Introducción/1.  Control de Versiones.md",
     "GitHub/2. Introducción/extras",
-    "GitHub/1. Presentación del Curso/Sin título.md",
-    "NodeJS/11. Despliegue de Nuestra Aplicación/7.  Recap del Curso y Despedida.md",
     "GitHub/10. Extra",
     "GitHub/9. GitHub Multiplataforma",
     "GitHub/8.  Personalizar nuestro Perfil",
     "GitHub/7. GitHub para Open Source",
     "GitHub/6. Documentación",
-    "GitHub/5. GitHub Pages",
-    "GitHub/4. GitHub para Trabajo Colaborativo",
-    "GitHub/Sin título.md",
     "Sin título.canvas",
     "React/Introduccion/Sin título.canvas"
   ]
