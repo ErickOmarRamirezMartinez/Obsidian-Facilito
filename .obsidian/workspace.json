@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NodeJS/11. Despliegue de Nuestra Aplicación/7.  Recap del Curso y Despedida.md",
+                "file": "GitHub/2. Introducción/7.  Configuración Inicial.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NodeJS/11. Despliegue de Nuestra Aplicación/7.  Recap del Curso y Despedida.md",
+                "file": "GitHub/2. Introducción/7.  Configuración Inicial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NodeJS/11. Despliegue de Nuestra Aplicación/7.  Recap del Curso y Despedida.md",
+                "file": "GitHub/2. Introducción/7.  Configuración Inicial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NodeJS/11. Despliegue de Nuestra Aplicación/7.  Recap del Curso y Despedida.md"
+                "file": "GitHub/2. Introducción/7.  Configuración Inicial.md"
               }
             }
           }
@@ -150,52 +150,52 @@
   },
   "active": "413814925b8927be",
   "lastOpenFiles": [
-    "GitHub/Sin título.md",
+    "GitHub/2. Introducción/extras/Pasted image 20240518212509.png",
+    "GitHub/2. Introducción/extras/Pasted image 20240518212456.png",
+    "GitHub/2. Introducción/6.  Instalación de Git.md",
+    "GitHub/2. Introducción/extras/Pasted image 20240518212401.png",
+    "GitHub/2. Introducción/extras/Pasted image 20240518212353.png",
+    "GitHub/2. Introducción/5.  Creación de Cuenta.md",
+    "GitHub/2. Introducción/4.  Git vs. GitHub.md",
+    "GitHub/2. Introducción/extras/Pasted image 20240518212308.png",
+    "GitHub/2. Introducción/extras/Pasted image 20240518212253.png",
+    "GitHub/2. Introducción/extras/Pasted image 20240518212246.png",
+    "GitHub/2. Introducción/3.  ¿Qué es GitHub.md",
+    "GitHub/2. Introducción/extras/Pasted image 20240518212233.png",
+    "GitHub/2. Introducción/extras/Pasted image 20240518212227.png",
+    "GitHub/2. Introducción/extras/Pasted image 20240518212220.png",
+    "GitHub/2. Introducción/extras/Pasted image 20240518212213.png",
+    "GitHub/2. Introducción/2.  ¿Qué es Git.md",
+    "GitHub/2. Introducción/1.  Control de Versiones.md",
+    "GitHub/2. Introducción/extras",
+    "GitHub/2. Introducción/7.  Configuración Inicial.md",
+    "GitHub/1. Presentación del Curso/Sin título.md",
     "NodeJS/11. Despliegue de Nuestra Aplicación/7.  Recap del Curso y Despedida.md",
-    "GitHub",
+    "GitHub/10. Extra",
+    "GitHub/9. GitHub Multiplataforma",
+    "GitHub/8.  Personalizar nuestro Perfil",
+    "GitHub/7. GitHub para Open Source",
+    "GitHub/6. Documentación",
+    "GitHub/5. GitHub Pages",
+    "GitHub/4. GitHub para Trabajo Colaborativo",
+    "GitHub/3. Manejo de Repositorios",
+    "GitHub/2. Introducción",
+    "GitHub/Sin título.md",
     "NodeJS/11. Despliegue de Nuestra Aplicación/6.  Despliegue en Fly.io.md",
-    "NodeJS/11. Despliegue de Nuestra Aplicación/extras/Pasted image 20240518210117.png",
-    "NodeJS/11. Despliegue de Nuestra Aplicación/extras/Pasted image 20240518210112.png",
-    "NodeJS/11. Despliegue de Nuestra Aplicación/extras/Pasted image 20240518210002.png",
-    "NodeJS/11. Despliegue de Nuestra Aplicación/extras/Pasted image 20240518205955.png",
-    "NodeJS/11. Despliegue de Nuestra Aplicación/extras/Pasted image 20240518205949.png",
-    "NodeJS/11. Despliegue de Nuestra Aplicación/extras/Pasted image 20240518205819.png",
-    "NodeJS/11. Despliegue de Nuestra Aplicación/extras/Pasted image 20240518203812.png",
-    "NodeJS/11. Despliegue de Nuestra Aplicación/extras/Pasted image 20240518203751.png",
-    "NodeJS/11. Despliegue de Nuestra Aplicación/extras/Pasted image 20240518203736.png",
-    "NodeJS/11. Despliegue de Nuestra Aplicación/extras/Pasted image 20240518203716.png",
     "NodeJS/11. Despliegue de Nuestra Aplicación/5.  Flag - inspect.md",
     "NodeJS/11. Despliegue de Nuestra Aplicación/4.  Express debug.md",
     "NodeJS/11. Despliegue de Nuestra Aplicación/3.  Por fin vas a entender CORS.md",
     "NodeJS/11. Despliegue de Nuestra Aplicación/2.   El Caché, el Secreto de la Velocidad.md",
     "NodeJS/11. Despliegue de Nuestra Aplicación/1.  Cómo Preparo mi Aplicación para Producción.md",
-    "NodeJS/11. Despliegue de Nuestra Aplicación/extras",
     "NodeJS/10. Seguridad en NodeJS/3.  Supply Chain attacks (socket.dev).md",
     "NodeJS/10. Seguridad en NodeJS/2.  NPM Audit y Synk.md",
     "NodeJS/10. Seguridad en NodeJS/1.  HTTP Headers y Helmet.md",
-    "NodeJS/10. Seguridad en NodeJS/extras",
     "NodeJS/9. Testing en NodeJS/6.  Extra - Test runner en NodeJS 19.md",
     "NodeJS/9. Testing en NodeJS/5.  Supertest para probar nuestros endpoints.md",
     "NodeJS/9. Testing en NodeJS/4  Haciendo Test de nuestros servicios.md",
     "NodeJS/9. Testing en NodeJS/3.  El arte de Mocking en NodeJS.md",
     "NodeJS/9. Testing en NodeJS/2.  Jest la navaja suiza de los test.md",
     "NodeJS/9. Testing en NodeJS/1.  Qué son los Test Unitarios y de Integración.md",
-    "NodeJS/9. Testing en NodeJS/extras",
-    "NodeJS/8. En el medio del Middleware/6.  Middlewares Recomendados.md",
-    "NodeJS/8. En el medio del Middleware/5.  Errores HTTP, Error 404 y Boom.md",
-    "NodeJS/8. En el medio del Middleware/4.  Middleware de Validación de Datos.md",
-    "NodeJS/8. En el medio del Middleware/3.  Esquemas, Validación y Joi.md",
-    "NodeJS/8. En el medio del Middleware/2.  Middlewares de Logging y Error.md",
-    "NodeJS/8. En el medio del Middleware/1.  Qué son los Middlewares.md",
-    "NodeJS/7. API Restful en ExpressJS/7.  Método PATCH.id para actualizar un dato.md",
-    "NodeJS/8. En el medio del Middleware/extras",
-    "NodeJS/7. API Restful en ExpressJS/6.  Método http DELETE.id para eliminar un dato.md",
-    "NodeJS/7. API Restful en ExpressJS/5.  Método http GET.id para obtener un dato.md",
-    "NodeJS/7. API Restful en ExpressJS/extras",
-    "NodeJS/8. En el medio del Middleware/Sin título",
-    "NodeJS/6 NodeJS y las Bases de Datos/extras",
-    "NodeJS/5. Servidores Web con ExpressJS/extras",
-    "NodeJS/4. La magia de los Streams/extras",
     "Sin título.canvas",
     "React/Introduccion/Sin título.canvas"
   ]
