@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NodeJS/11. Despliegue de Nuestra Aplicación/Sin título 6.md",
+                "file": "NodeJS/11. Despliegue de Nuestra Aplicación/7.  Recap del Curso y Despedida.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NodeJS/11. Despliegue de Nuestra Aplicación/Sin título 6.md",
+                "file": "NodeJS/11. Despliegue de Nuestra Aplicación/7.  Recap del Curso y Despedida.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NodeJS/11. Despliegue de Nuestra Aplicación/Sin título 6.md",
+                "file": "NodeJS/11. Despliegue de Nuestra Aplicación/7.  Recap del Curso y Despedida.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NodeJS/11. Despliegue de Nuestra Aplicación/Sin título 6.md"
+                "file": "NodeJS/11. Despliegue de Nuestra Aplicación/7.  Recap del Curso y Despedida.md"
               }
             }
           }
@@ -150,24 +150,27 @@
   },
   "active": "413814925b8927be",
   "lastOpenFiles": [
-    "NodeJS/11. Despliegue de Nuestra Aplicación/Sin título 5.md",
-    "NodeJS/11. Despliegue de Nuestra Aplicación/Sin título 6.md",
-    "NodeJS/11. Despliegue de Nuestra Aplicación/Sin título 4.md",
-    "NodeJS/11. Despliegue de Nuestra Aplicación/Sin título 3.md",
-    "NodeJS/11. Despliegue de Nuestra Aplicación/Sin título 2.md",
-    "NodeJS/11. Despliegue de Nuestra Aplicación/Sin título 1.md",
-    "NodeJS/11. Despliegue de Nuestra Aplicación/Sin título.md",
+    "GitHub/Sin título.md",
+    "NodeJS/11. Despliegue de Nuestra Aplicación/7.  Recap del Curso y Despedida.md",
+    "GitHub",
+    "NodeJS/11. Despliegue de Nuestra Aplicación/6.  Despliegue en Fly.io.md",
+    "NodeJS/11. Despliegue de Nuestra Aplicación/extras/Pasted image 20240518210117.png",
+    "NodeJS/11. Despliegue de Nuestra Aplicación/extras/Pasted image 20240518210112.png",
+    "NodeJS/11. Despliegue de Nuestra Aplicación/extras/Pasted image 20240518210002.png",
+    "NodeJS/11. Despliegue de Nuestra Aplicación/extras/Pasted image 20240518205955.png",
+    "NodeJS/11. Despliegue de Nuestra Aplicación/extras/Pasted image 20240518205949.png",
+    "NodeJS/11. Despliegue de Nuestra Aplicación/extras/Pasted image 20240518205819.png",
+    "NodeJS/11. Despliegue de Nuestra Aplicación/extras/Pasted image 20240518203812.png",
+    "NodeJS/11. Despliegue de Nuestra Aplicación/extras/Pasted image 20240518203751.png",
+    "NodeJS/11. Despliegue de Nuestra Aplicación/extras/Pasted image 20240518203736.png",
+    "NodeJS/11. Despliegue de Nuestra Aplicación/extras/Pasted image 20240518203716.png",
+    "NodeJS/11. Despliegue de Nuestra Aplicación/5.  Flag - inspect.md",
+    "NodeJS/11. Despliegue de Nuestra Aplicación/4.  Express debug.md",
+    "NodeJS/11. Despliegue de Nuestra Aplicación/3.  Por fin vas a entender CORS.md",
+    "NodeJS/11. Despliegue de Nuestra Aplicación/2.   El Caché, el Secreto de la Velocidad.md",
+    "NodeJS/11. Despliegue de Nuestra Aplicación/1.  Cómo Preparo mi Aplicación para Producción.md",
+    "NodeJS/11. Despliegue de Nuestra Aplicación/extras",
     "NodeJS/10. Seguridad en NodeJS/3.  Supply Chain attacks (socket.dev).md",
-    "NodeJS/10. Seguridad en NodeJS/extras/Pasted image 20240518185447.png",
-    "NodeJS/10. Seguridad en NodeJS/extras/Pasted image 20240518185441.png",
-    "NodeJS/10. Seguridad en NodeJS/extras/Pasted image 20240518185433.png",
-    "NodeJS/10. Seguridad en NodeJS/extras/Pasted image 20240518185423.png",
-    "NodeJS/10. Seguridad en NodeJS/extras/Pasted image 20240518185418.png",
-    "NodeJS/10. Seguridad en NodeJS/extras/Pasted image 20240518185404.png",
-    "NodeJS/10. Seguridad en NodeJS/extras/Pasted image 20240518185359.png",
-    "NodeJS/10. Seguridad en NodeJS/extras/Pasted image 20240518185354.png",
-    "NodeJS/10. Seguridad en NodeJS/extras/Pasted image 20240518185346.png",
-    "NodeJS/10. Seguridad en NodeJS/extras/Pasted image 20240518185341.png",
     "NodeJS/10. Seguridad en NodeJS/2.  NPM Audit y Synk.md",
     "NodeJS/10. Seguridad en NodeJS/1.  HTTP Headers y Helmet.md",
     "NodeJS/10. Seguridad en NodeJS/extras",
@@ -188,14 +191,11 @@
     "NodeJS/8. En el medio del Middleware/extras",
     "NodeJS/7. API Restful en ExpressJS/6.  Método http DELETE.id para eliminar un dato.md",
     "NodeJS/7. API Restful en ExpressJS/5.  Método http GET.id para obtener un dato.md",
-    "NodeJS/7. API Restful en ExpressJS/4.  Método http POST para crear datos.md",
     "NodeJS/7. API Restful en ExpressJS/extras",
     "NodeJS/8. En el medio del Middleware/Sin título",
     "NodeJS/6 NodeJS y las Bases de Datos/extras",
     "NodeJS/5. Servidores Web con ExpressJS/extras",
     "NodeJS/4. La magia de los Streams/extras",
-    "NodeJS/3. Utilidades en NodeJS/extras",
-    "NodeJS/2. El Mundo Asíncrono/extras",
     "Sin título.canvas",
     "React/Introduccion/Sin título.canvas"
   ]
