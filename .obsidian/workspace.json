@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NodeJS/10. Seguridad en NodeJS/1.  HTTP Headers y Helmet.md",
+                "file": "NodeJS/11. Despliegue de Nuestra Aplicación/Sin título 6.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NodeJS/10. Seguridad en NodeJS/1.  HTTP Headers y Helmet.md",
+                "file": "NodeJS/11. Despliegue de Nuestra Aplicación/Sin título 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NodeJS/10. Seguridad en NodeJS/1.  HTTP Headers y Helmet.md",
+                "file": "NodeJS/11. Despliegue de Nuestra Aplicación/Sin título 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NodeJS/10. Seguridad en NodeJS/1.  HTTP Headers y Helmet.md"
+                "file": "NodeJS/11. Despliegue de Nuestra Aplicación/Sin título 6.md"
               }
             }
           }
@@ -150,21 +150,29 @@
   },
   "active": "413814925b8927be",
   "lastOpenFiles": [
+    "NodeJS/11. Despliegue de Nuestra Aplicación/Sin título 5.md",
+    "NodeJS/11. Despliegue de Nuestra Aplicación/Sin título 6.md",
+    "NodeJS/11. Despliegue de Nuestra Aplicación/Sin título 4.md",
+    "NodeJS/11. Despliegue de Nuestra Aplicación/Sin título 3.md",
+    "NodeJS/11. Despliegue de Nuestra Aplicación/Sin título 2.md",
+    "NodeJS/11. Despliegue de Nuestra Aplicación/Sin título 1.md",
+    "NodeJS/11. Despliegue de Nuestra Aplicación/Sin título.md",
     "NodeJS/10. Seguridad en NodeJS/3.  Supply Chain attacks (socket.dev).md",
+    "NodeJS/10. Seguridad en NodeJS/extras/Pasted image 20240518185447.png",
+    "NodeJS/10. Seguridad en NodeJS/extras/Pasted image 20240518185441.png",
+    "NodeJS/10. Seguridad en NodeJS/extras/Pasted image 20240518185433.png",
+    "NodeJS/10. Seguridad en NodeJS/extras/Pasted image 20240518185423.png",
+    "NodeJS/10. Seguridad en NodeJS/extras/Pasted image 20240518185418.png",
+    "NodeJS/10. Seguridad en NodeJS/extras/Pasted image 20240518185404.png",
+    "NodeJS/10. Seguridad en NodeJS/extras/Pasted image 20240518185359.png",
+    "NodeJS/10. Seguridad en NodeJS/extras/Pasted image 20240518185354.png",
+    "NodeJS/10. Seguridad en NodeJS/extras/Pasted image 20240518185346.png",
+    "NodeJS/10. Seguridad en NodeJS/extras/Pasted image 20240518185341.png",
     "NodeJS/10. Seguridad en NodeJS/2.  NPM Audit y Synk.md",
     "NodeJS/10. Seguridad en NodeJS/1.  HTTP Headers y Helmet.md",
+    "NodeJS/10. Seguridad en NodeJS/extras",
     "NodeJS/9. Testing en NodeJS/6.  Extra - Test runner en NodeJS 19.md",
-    "NodeJS/9. Testing en NodeJS/extras/Pasted image 20240518183900.png",
-    "NodeJS/9. Testing en NodeJS/extras/Pasted image 20240518183852.png",
-    "NodeJS/9. Testing en NodeJS/extras/Pasted image 20240518183832.png",
-    "NodeJS/9. Testing en NodeJS/extras/Pasted image 20240518183820.png",
-    "NodeJS/9. Testing en NodeJS/extras/Pasted image 20240518183814.png",
-    "NodeJS/9. Testing en NodeJS/extras/Pasted image 20240518183541.png",
-    "NodeJS/9. Testing en NodeJS/extras/Pasted image 20240518183454.png",
-    "NodeJS/9. Testing en NodeJS/extras/Pasted image 20240518183336.png",
-    "NodeJS/9. Testing en NodeJS/extras/Pasted image 20240518183224.png",
     "NodeJS/9. Testing en NodeJS/5.  Supertest para probar nuestros endpoints.md",
-    "NodeJS/9. Testing en NodeJS/extras/Pasted image 20240518183213.png",
     "NodeJS/9. Testing en NodeJS/4  Haciendo Test de nuestros servicios.md",
     "NodeJS/9. Testing en NodeJS/3.  El arte de Mocking en NodeJS.md",
     "NodeJS/9. Testing en NodeJS/2.  Jest la navaja suiza de los test.md",
@@ -181,13 +189,6 @@
     "NodeJS/7. API Restful en ExpressJS/6.  Método http DELETE.id para eliminar un dato.md",
     "NodeJS/7. API Restful en ExpressJS/5.  Método http GET.id para obtener un dato.md",
     "NodeJS/7. API Restful en ExpressJS/4.  Método http POST para crear datos.md",
-    "NodeJS/7. API Restful en ExpressJS/3.  Refactorización de nuestro código.md",
-    "NodeJS/7. API Restful en ExpressJS/2.  Método http GET para obtener los datos.md",
-    "NodeJS/7. API Restful en ExpressJS/1.  Con qué se come el CRUD y el RESTfuls.md",
-    "NodeJS/6 NodeJS y las Bases de Datos/4 .Creación de Tablas y datos de prueba en MySQL.md",
-    "NodeJS/6 NodeJS y las Bases de Datos/3.  Cómo conectarnos a nuestra instancia de MySQL.md",
-    "NodeJS/6 NodeJS y las Bases de Datos/2.   Creando una base de datos en PlanetScale.md",
-    "NodeJS/6 NodeJS y las Bases de Datos/1.  Por qué necesitamos una base de datos y cuál elegir.md",
     "NodeJS/7. API Restful en ExpressJS/extras",
     "NodeJS/8. En el medio del Middleware/Sin título",
     "NodeJS/6 NodeJS y las Bases de Datos/extras",
@@ -195,7 +196,6 @@
     "NodeJS/4. La magia de los Streams/extras",
     "NodeJS/3. Utilidades en NodeJS/extras",
     "NodeJS/2. El Mundo Asíncrono/extras",
-    "NodeJS/1. Introducción a NodeJS/extras",
     "Sin título.canvas",
     "React/Introduccion/Sin título.canvas"
   ]
