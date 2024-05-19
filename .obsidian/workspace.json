@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GitHub/7. GitHub para Open Source/Sin título 2.md",
+                "file": "GitHub/8.  Personalizar nuestro Perfil/1.  Profile Readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GitHub/7. GitHub para Open Source/Sin título 2.md",
+                "file": "GitHub/8.  Personalizar nuestro Perfil/1.  Profile Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GitHub/7. GitHub para Open Source/Sin título 2.md",
+                "file": "GitHub/8.  Personalizar nuestro Perfil/1.  Profile Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GitHub/7. GitHub para Open Source/Sin título 2.md"
+                "file": "GitHub/8.  Personalizar nuestro Perfil/1.  Profile Readme.md"
               }
             }
           }
@@ -148,22 +148,26 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "4cad84e605af4693",
+  "active": "413814925b8927be",
   "lastOpenFiles": [
-    "GitHub/7. GitHub para Open Source/Sin título 1.md",
-    "GitHub/7. GitHub para Open Source/Sin título 2.md",
-    "GitHub/7. GitHub para Open Source/Sin título.md",
+    "GitHub/7. GitHub para Open Source/4.  Repositorios Favoritos.md",
+    "GitHub/7. GitHub para Open Source/extras/Pasted image 20240518223851.png",
+    "GitHub/7. GitHub para Open Source/extras/Pasted image 20240518223841.png",
+    "GitHub/7. GitHub para Open Source/extras/Pasted image 20240518223834.png",
+    "GitHub/7. GitHub para Open Source/extras/Pasted image 20240518223824.png",
+    "GitHub/7. GitHub para Open Source/extras/Pasted image 20240518223806.png",
+    "GitHub/7. GitHub para Open Source/3.  Cómo contribuir.md",
+    "GitHub/7. GitHub para Open Source/extras/Pasted image 20240518223617.png",
+    "GitHub/7. GitHub para Open Source/extras/Pasted image 20240518223606.png",
+    "GitHub/7. GitHub para Open Source/extras/Pasted image 20240518223559.png",
+    "GitHub/7. GitHub para Open Source/2.  Características de un Repo Open Source.md",
+    "GitHub/7. GitHub para Open Source/extras/Pasted image 20240518223513.png",
+    "GitHub/7. GitHub para Open Source/extras/Pasted image 20240518223340.png",
+    "GitHub/7. GitHub para Open Source/1.  ¿Qué es Open Source.md",
+    "GitHub/7. GitHub para Open Source/extras",
+    "GitHub/8.  Personalizar nuestro Perfil/1.  Profile Readme.md",
+    "GitHub/8.  Personalizar nuestro Perfil/2.  Themes.md",
     "GitHub/6. Documentación/3.  Gists.md",
-    "GitHub/6. Documentación/extras/Pasted image 20240518222900.png",
-    "GitHub/6. Documentación/extras/Pasted image 20240518222852.png",
-    "GitHub/6. Documentación/extras/Pasted image 20240518222844.png",
-    "GitHub/6. Documentación/extras/Pasted image 20240518222829.png",
-    "GitHub/6. Documentación/extras/Pasted image 20240518222817.png",
-    "GitHub/6. Documentación/extras/Pasted image 20240518222804.png",
-    "GitHub/6. Documentación/extras/Pasted image 20240518222743.png",
-    "GitHub/6. Documentación/extras/Pasted image 20240518222735.png",
-    "GitHub/6. Documentación/extras/Pasted image 20240518222721.png",
-    "GitHub/6. Documentación/extras/Pasted image 20240518222707.png",
     "GitHub/6. Documentación/2.  Readme.md",
     "GitHub/6. Documentación/1.  Markdown.md",
     "GitHub/6. Documentación/extras",
@@ -185,17 +189,12 @@
     "GitHub/3. Manejo de Repositorios/5.  Actualización de Repositorio.md",
     "GitHub/3. Manejo de Repositorios/4.  Descargar repositorios.md",
     "GitHub/3. Manejo de Repositorios/3.  Creación de Repositorios.md",
-    "GitHub/3. Manejo de Repositorios/2.  Repositorios Locales y Remotos.md",
-    "GitHub/3. Manejo de Repositorios/1.  Repositorios de Git.md",
     "GitHub/3. Manejo de Repositorios/extras",
-    "GitHub/2. Introducción/7.  Configuración Inicial.md",
-    "GitHub/2. Introducción/6.  Instalación de Git.md",
     "GitHub/2. Introducción/extras",
     "GitHub/10. Extra",
     "GitHub/9. GitHub Multiplataforma",
     "GitHub/8.  Personalizar nuestro Perfil",
     "GitHub/7. GitHub para Open Source",
-    "GitHub/6. Documentación",
     "Sin título.canvas",
     "React/Introduccion/Sin título.canvas"
   ]
