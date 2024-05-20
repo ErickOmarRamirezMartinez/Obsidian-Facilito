@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/1.Introduccion/4.Ecosistema de React.md",
+                "file": "Animation JS/5.  Ejemplos prácticos de casos de uso.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/1.Introduccion/4.Ecosistema de React.md",
+                "file": "Animation JS/5.  Ejemplos prácticos de casos de uso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/1.Introduccion/4.Ecosistema de React.md",
+                "file": "Animation JS/5.  Ejemplos prácticos de casos de uso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/1.Introduccion/4.Ecosistema de React.md"
+                "file": "Animation JS/5.  Ejemplos prácticos de casos de uso.md"
               }
             }
           }
@@ -150,22 +150,33 @@
   },
   "active": "413814925b8927be",
   "lastOpenFiles": [
+    "Animation JS/extras/Pasted image 20240520100554.png",
+    "Animation JS/extras/Pasted image 20240520100532.png",
+    "Animation JS/extras/Pasted image 20240520100514.png",
+    "Animation JS/extras/Pasted image 20240520100500.png",
+    "Animation JS/extras/Pasted image 20240520100400.png",
+    "Animation JS/extras/Pasted image 20240520100114.png",
+    "Animation JS/extras/Pasted image 20240520100054.png",
+    "Animation JS/extras/Pasted image 20240520100045.png",
+    "Animation JS/4.  Web Animation API.md",
+    "Animation JS/extras/Pasted image 20240520095957.png",
+    "Animation JS/extras/Pasted image 20240520095947.png",
+    "Animation JS/extras/Pasted image 20240520095921.png",
+    "Animation JS/3.  Anatomía de una Animación.md",
+    "Animation JS/2.  Animación y UX.md",
+    "Animation JS/1.  Introducción de la Clase.md",
+    "Animation JS/extras",
+    "Animation JS/5.  Ejemplos prácticos de casos de uso.md",
+    "React/1.Introduccion/5.Pensando en Componentes.md",
+    "Animation JS/Sin título",
+    "Animation JS",
+    "React/1.Introduccion/4.Ecosistema de React.md",
     "React/1.Introduccion/2.Que es React.md",
     "React/1.Introduccion/1.Introduccion.md",
     "GitHub/10. Extra/2.  Dependabot.md",
-    "GitHub/10. Extra/extras/Pasted image 20240518225506.png",
-    "GitHub/10. Extra/extras/Pasted image 20240518225456.png",
-    "GitHub/10. Extra/extras/Pasted image 20240518225448.png",
-    "GitHub/10. Extra/extras/Pasted image 20240518225439.png",
     "GitHub/10. Extra/extras",
     "GitHub/9. GitHub Multiplataforma/3.  GitHub Mobile.md",
-    "GitHub/9. GitHub Multiplataforma/extras/Pasted image 20240518225349.png",
-    "GitHub/9. GitHub Multiplataforma/extras/Pasted image 20240518225338.png",
-    "GitHub/9. GitHub Multiplataforma/extras/Pasted image 20240518225310.png",
-    "GitHub/9. GitHub Multiplataforma/extras/Pasted image 20240518225301.png",
-    "GitHub/9. GitHub Multiplataforma/extras/Pasted image 20240518225253.png",
     "GitHub/9. GitHub Multiplataforma/2.  GitHub CLI.md",
-    "GitHub/9. GitHub Multiplataforma/extras/Pasted image 20240518225223.png",
     "GitHub/9. GitHub Multiplataforma/1.  GitHub Desktop.md",
     "GitHub/9. GitHub Multiplataforma/extras",
     "GitHub/8.  Personalizar nuestro Perfil/2.  Themes.md",
@@ -184,18 +195,7 @@
     "GitHub/5. GitHub Pages/2.  Mi primera GitHub Page.md",
     "GitHub/5. GitHub Pages/1.  ¿Qué es GitHub Pages.md",
     "GitHub/5. GitHub Pages/extras",
-    "GitHub/4. GitHub para Trabajo Colaborativo/10.  Code Review.md",
-    "GitHub/4. GitHub para Trabajo Colaborativo/9.  Pull Request.md",
-    "GitHub/4. GitHub para Trabajo Colaborativo/8.  Gestión de Proyectos.md",
-    "GitHub/4. GitHub para Trabajo Colaborativo/7.  Issues Pt.2.md",
-    "GitHub/4. GitHub para Trabajo Colaborativo/6.  Issues Pt.1.md",
-    "GitHub/4. GitHub para Trabajo Colaborativo/5.  Mensajes de Commit.md",
-    "GitHub/4. GitHub para Trabajo Colaborativo/4.  Git Workflow.md",
-    "GitHub/4. GitHub para Trabajo Colaborativo/3.  Conflictos de Git.md",
     "GitHub/4. GitHub para Trabajo Colaborativo/extras",
-    "GitHub/3. Manejo de Repositorios/extras",
-    "GitHub/2. Introducción/extras",
-    "GitHub/10. Extra",
     "Sin título.canvas",
     "React/Introduccion/Sin título.canvas"
   ]
